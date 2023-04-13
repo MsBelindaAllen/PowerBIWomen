@@ -1,0 +1,707 @@
+﻿Id,Name,Stage Name,Amount,Probability,Expected Revenue,Type,Lead Source,Forecast Category,Opportunity Source,CloseDate,Status,Created Date
+0068d000009MWGPAA4,Opportunity for Harper529,Closed Won,17621,1,17621,New Business / Add-on,Web,Closed,AE,5/9/2029,Won,5/9/2023
+0068d000009MWGQAA4,Opportunity for Duncan873,Closed Won,2400250,1,2400250,New Business,Advertisement,Closed,Marketing,8/25/2028,Won,8/25/2022
+0068d000009MWGRAA4,Opportunity for Daniel875,Closed Won,5023650,1,5023650,Existing Business,Employee Referral,Closed,Marketing,5/15/2029,Won,5/15/2023
+0068d000009MWGTAA4,Opportunity for McKenzie881,Closed Won,1684050,1,1684050,New Business,Web,Closed,Marketing,7/13/2028,Won,7/13/2022
+0068d000009MWGUAA4,Opportunity for Duncan885,Qualification,413101,0.1,41310.1,New Business,Advertisement,Pipeline,Alliances,10/19/2029,Open,10/19/2023
+0068d000009MWGZAA4,Opportunity for Baker1261,Closed Lost,41580,0,0,New Business / Add-on,Word of mouth,Omitted,Marketing,6/18/2029,Lost,6/18/2023
+0068d000009MWJVAA4,Opportunity for White1730,Negotiation/Review,1994920,0.9,1795428,New Business / Add-on,Employee Referral,Forecast,Marketing,9/26/2029,Open,9/26/2023
+0068d000009MWJWAA4,Opportunity for Griffin1731,Closed Won,455096,1,455096,New Business / Add-on,Word of mouth,Closed,Marketing,10/11/2028,Won,10/11/2022
+0068d000009MWJXAA4,Opportunity for Marsh1734,Closed Won,309686,1,309686,New Business,Advertisement,Closed,AE,1/20/2029,Won,1/20/2023
+0068d000009MWJZAA4,Opportunity for Arnold1738,Closed Lost,257045,0,0,New Business / Add-on,Partner,Omitted,AE,10/12/2028,Lost,10/12/2022
+0068d000009MW7HAAW,Opportunity for Barrett259,Closed Lost,1589440,0,0,New Business,Public Relations,Omitted,AE,7/23/2028,Lost,7/23/2022
+0068d000009MW7IAAW,Opportunity for Dennis260,Needs Analysis,2868400,0.2,573680,Existing Business,Public Relations,Pipeline,AE,8/27/2029,Open,8/27/2023
+0068d000009MW7KAAW,Opportunity for Pittman263,Closed Won,1879190,1,1879190,New Business,Advertisement,Closed,Marketing,2/1/2029,Won,2/1/2023
+0068d000009MW7LAAW,Opportunity for Holmes265,Prospecting,206640,0.1,20664,New Business,Word of mouth,Pipeline,Marketing,9/13/2029,Open,9/13/2023
+0068d000009MWBiAAO,Opportunity for Andrews1118,Closed Won,591520,1,591520,New Business,Partner,Closed,Marketing,10/1/2028,Won,10/1/2022
+0068d000009MWBkAAO,Opportunity for Estrada1122,Value Proposition,466560,0.5,233280,New Business,Trade Show,Pipeline,Marketing,1/9/2030,Open,1/9/2022
+0068d000009MWBmAAO,Opportunity for Miles1126,Closed Won,142400,1,142400,New Business,Trade Show,Closed,AE,7/29/2029,Won,7/29/2023
+0068d000009MWBoAAO,Opportunity for Alvarado1128,Closed Won,254886,1,254886,New Business / Add-on,Advertisement,Closed,AE,7/20/2029,Won,7/20/2023
+0068d000009MWBpAAO,Opportunity for Wilkins1129,Closed Won,2210350,1,2210350,New Business / Add-on,Employee Referral,Closed,AE,2/7/2029,Won,2/7/2023
+0068d000009MWBqAAO,Opportunity for Harris1133,Closed Won,524400,1,524400,New Business / Add-on,Seminar - Internal,Closed,Marketing,2/1/2029,Won,2/1/2023
+0068d000009MWBsAAO,Opportunity for Howell1136,Closed Won,987000,1,987000,New Business,Trade Show,Closed,BDR,5/21/2029,Won,5/21/2023
+0068d000009MWBuAAO,Opportunity for Obrien1138,Closed Lost,489886,0,0,New Business,Public Relations,Omitted,AE,12/1/2028,Lost,12/1/2022
+0068d000009MWBwAAO,Opportunity for Young1496,Closed Won,219000,1,219000,Existing Business,Trade Show,Closed,Marketing,6/8/2029,Won,6/8/2023
+0068d000009MWBxAAO,Opportunity for Malone1500,Closed Won,583800,1,583800,New Business / Add-on,Word of mouth,Closed,AE,6/25/2029,Won,6/25/2023
+0068d000009MWBzAAO,Opportunity for McDonald1503,Closed Won,3851250,1,3851250,New Business,Word of mouth,Closed,Marketing,2/10/2029,Won,2/10/2023
+0068d000009MWC0AAO,Opportunity for Oliver1504,Closed Won,1032600,1,1032600,New Business / Add-on,Word of mouth,Closed,AE,1/29/2029,Won,1/29/2023
+0068d000009MWGaAAO,Opportunity for Perkins1263,Negotiation/Review,1314185,0.9,1182766.5,Existing Business,Word of mouth,Forecast,AE,12/2/2029,Open,12/2/2023
+0068d000009MWGbAAO,Opportunity for Tucker1268,Closed Won,371689,1,371689,New Business / Add-on,Employee Referral,Closed,AE,11/9/2028,Won,11/9/2022
+0068d000009MWGeAAO,Opportunity for Malone1276,Closed Won,196200,1,196200,New Business / Add-on,Advertisement,Closed,AE,4/27/2029,Won,4/27/2023
+0068d000009MWGfAAO,Opportunity for Patton1278,Closed Won,2477275,1,2477275,New Business,Web,Closed,BDR,8/1/2029,Won,8/1/2023
+0068d000009MWGhAAO,Opportunity for Chandler1281,Perception Analysis,2336600,0.7,1635620,New Business,Web,BestCase,Marketing,11/27/2029,Open,11/27/2023
+0068d000009MWGiAAO,Opportunity for Bradley1628,Closed Won,326160,1,326160,New Business / Add-on,Partner,Closed,Marketing,4/16/2029,Won,4/16/2023
+0068d000009MWGkAAO,Opportunity for Marsh1634,Closed Lost,3055100,0,0,New Business,Employee Referral,Omitted,Marketing,3/20/2029,Lost,3/20/2023
+0068d000009MW7MAAW,Opportunity for Murphy267,Closed Won,2664105,1,2664105,Existing Business,Advertisement,Closed,Marketing,2/14/2029,Won,2/14/2023
+0068d000009MW7NAAW,Opportunity for Freeman268,Closed Won,1518190,1,1518190,New Business,Web,Closed,AE,7/27/2029,Won,7/27/2023
+0068d000009MW7OAAW,Opportunity for Terry269,Closed Won,846000,1,846000,New Business / Add-on,Word of mouth,Closed,AE,3/31/2029,Won,3/31/2023
+0068d000009MW7PAAW,Opportunity for Butler275,Closed Won,209104,1,209104,New Business,Employee Referral,Closed,BDR,2/2/2029,Won,2/2/2023
+0068d000009MW7QAAW,Opportunity for Collier276,Qualification,582035,0.1,58203.5,New Business / Add-on,Partner,Pipeline,AE,11/19/2029,Open,11/19/2023
+0068d000009MW7RAAW,Opportunity for Banks277,Closed Won,376862,1,376862,New Business / Add-on,Word of mouth,Closed,Marketing,8/12/2028,Won,8/12/2022
+0068d000009MW7SAAW,Opportunity for Alexander278,Closed Won,18960,1,18960,New Business,Seminar - Internal,Closed,AE,3/11/2029,Won,3/11/2023
+0068d000009MW7TAAW,Opportunity for Allison281,Qualification,1573350,0.1,157335,New Business / Add-on,Partner,Pipeline,Alliances,2/1/2030,Open,2/1/2022
+0068d000009MW7UAAW,Opportunity for Delgado355,Closed Won,1318960,1,1318960,New Business,Partner,Closed,AE,6/3/2029,Won,6/3/2023
+0068d000009MW7XAAW,Opportunity for Bryant359,Closed Won,3039400,1,3039400,New Business / Add-on,Advertisement,Closed,AE,3/30/2029,Won,3/30/2023
+0068d000009MW7YAAW,Opportunity for Wise361,Needs Analysis,1595250,0.2,319050,New Business,Word of mouth,Pipeline,Marketing,1/14/2030,Open,1/14/2022
+0068d000009MW7ZAAW,Opportunity for Hunt362,Closed Won,1148850,1,1148850,New Business,Employee Referral,Closed,Marketing,7/4/2029,Won,7/4/2023
+0068d000009MW7aAAG,Opportunity for Scott363,Perception Analysis,788800,0.7,552160,New Business / Add-on,Seminar - Internal,BestCase,BDR,10/1/2029,Open,10/1/2023
+0068d000009MW9qAAG,Opportunity for Campbell329,Closed Won,3173450,1,3173450,New Business,Trade Show,Closed,AE,8/5/2029,Won,8/5/2023
+0068d000009MW9rAAG,Opportunity for Reynolds330,Closed Lost,276000,0,0,New Business / Add-on,Advertisement,Omitted,BDR,11/27/2028,Lost,11/27/2022
+0068d000009MW9sAAG,Opportunity for Fletcher332,Value Proposition,313425,0.5,156712.5,New Business / Add-on,Employee Referral,Pipeline,AE,8/25/2029,Open,8/25/2023
+0068d000009MW9tAAG,Opportunity for Shaw336,Qualification,389120,0.1,38912,New Business / Add-on,Employee Referral,Pipeline,AE,11/13/2029,Open,11/13/2023
+0068d000009MW9uAAG,Opportunity for Roy337,Closed Won,1241600,1,1241600,New Business,Partner,Closed,AE,12/5/2028,Won,12/5/2022
+0068d000009MW9vAAG,Opportunity for Brooks342,Closed Won,5280,1,5280,New Business,Partner,Closed,BDR,5/1/2029,Won,5/1/2023
+0068d000009MW9wAAG,Opportunity for Gomez345,Closed Lost,3145700,0,0,New Business,Partner,Omitted,BDR,5/19/2029,Lost,5/19/2023
+0068d000009MW9xAAG,Opportunity for Lamb346,Closed Lost,1668500,0,0,New Business,Partner,Omitted,AE,1/22/2029,Lost,1/22/2023
+0068d000009MW9zAAG,Opportunity for Christensen684,Qualification,624510,0.1,62451,Existing Business,Partner,Pipeline,Marketing,11/17/2029,Open,11/17/2023
+0068d000009MWA0AAO,Opportunity for Murray689,Closed Lost,2135800,0,0,New Business,Employee Referral,Omitted,Marketing,4/9/2029,Lost,4/9/2023
+0068d000009MWA2AAO,Opportunity for Gomez694,Closed Lost,452200,0,0,New Business / Add-on,Employee Referral,Omitted,Marketing,5/6/2029,Lost,5/6/2023
+0068d000009MWA3AAO,Opportunity for McKenzie695,Closed Lost,538820,0,0,New Business,Word of mouth,Omitted,BDR,6/13/2029,Lost,6/13/2023
+0068d000009MWC2AAO,Opportunity for Hardy1507,Perception Analysis,594760,0.7,416332,New Business,Advertisement,BestCase,Marketing,10/29/2029,Open,10/29/2023
+0068d000009MWC3AAO,Opportunity for Nguyen1510,Qualification,791500,0.1,79150,New Business,Advertisement,Pipeline,Marketing,9/17/2029,Open,9/17/2023
+0068d000009MWC4AAO,Opportunity for Garrett1512,Closed Won,2719000,1,2719000,New Business,Partner,Closed,Marketing,5/10/2029,Won,5/10/2023
+0068d000009MWC5AAO,Opportunity for Kennedy1514,Closed Won,130230,1,130230,New Business,Advertisement,Closed,BDR,7/24/2028,Won,7/24/2022
+0068d000009MWC6AAO,Opportunity for Bell1517,Closed Won,448068,1,448068,New Business / Add-on,Employee Referral,Closed,BDR,7/14/2029,Won,7/14/2023
+0068d000009MWC1AAO,Opportunity for Norris1506,Closed Won,43355,1,43355,New Business,Seminar - Internal,Closed,Marketing,2/2/2029,Won,2/2/2023
+0068d000009MWJaAAO,Opportunity for Meyer1740,Closed Won,1337090,1,1337090,Existing Business,Partner,Closed,BDR,4/17/2029,Won,4/17/2023
+0068d000009MWJbAAO,Opportunity for Phillips1742,Qualification,1580935,0.1,158093.5,New Business / Add-on,Employee Referral,Pipeline,AE,9/30/2029,Open,9/30/2023
+0068d000009MWJcAAO,Opportunity for Smith1744,Closed Lost,535160,0,0,New Business,Word of mouth,Omitted,Marketing,1/31/2029,Lost,1/31/2023
+0068d000009MWJdAAO,Opportunity for Rhodes1746,Perception Analysis,918500,0.7,642950,New Business,Trade Show,BestCase,BDR,9/13/2029,Open,9/13/2023
+0068d000009MWJfAAO,Opportunity for Jackson611,Closed Won,73600,1,73600,Existing Business,Partner,Closed,BDR,2/16/2029,Won,2/16/2023
+0068d000009MWJgAAO,Opportunity for Keller612,Closed Lost,765600,0,0,Existing Business,Web,Omitted,BDR,7/23/2029,Lost,7/23/2023
+0068d000009MWJhAAO,Opportunity for Osborne613,Closed Won,834280,1,834280,New Business,Employee Referral,Closed,AE,7/16/2029,Won,7/16/2023
+0068d000009MWJiAAO,Opportunity for Valdez617,Closed Won,273090,1,273090,New Business,Employee Referral,Closed,Marketing,12/11/2028,Won,12/11/2022
+0068d000009MW7bAAG,Opportunity for McCoy365,Closed Won,88200,1,88200,New Business,Employee Referral,Closed,BDR,8/26/2028,Won,8/26/2022
+0068d000009MW7cAAG,Opportunity for Love368,Closed Won,390885,1,390885,New Business / Add-on,Partner,Closed,AE,4/18/2029,Won,4/18/2023
+0068d000009MW7dAAG,Opportunity for Rios369,Closed Lost,112725,0,0,New Business / Add-on,Web,Omitted,AE,10/7/2028,Lost,10/7/2022
+0068d000009MW7eAAG,Opportunity for Gordon370,Closed Won,179225,1,179225,New Business,Word of mouth,Closed,Marketing,6/24/2029,Won,6/24/2023
+0068d000009MW7fAAG,Opportunity for Harrington373,Closed Won,22240,1,22240,New Business,Employee Referral,Closed,Alliances,5/3/2029,Won,5/3/2023
+0068d000009MW7gAAG,Opportunity for Pearson374,Closed Won,62400,1,62400,New Business,Partner,Closed,AE,6/17/2029,Won,6/17/2023
+0068d000009MW7hAAG,Opportunity for Clayton375,Closed Won,657600,1,657600,New Business,Partner,Closed,AE,4/13/2029,Won,4/13/2023
+0068d000009MWA4AAO,Opportunity for Malone696,Negotiation/Review,137400,0.9,123660,New Business / Add-on,Employee Referral,Forecast,BDR,9/17/2029,Open,9/17/2023
+0068d000009MWA6AAO,Opportunity for Ingram699,Closed Lost,2669875,0,0,Existing Business,Trade Show,Omitted,Marketing,6/30/2029,Lost,6/30/2023
+0068d000009MWA8AAO,Opportunity for Swanson1068,Negotiation/Review,248276,0.9,223448.4,New Business,Seminar - Internal,Forecast,AE,12/9/2029,Open,12/9/2023
+0068d000009MWA9AAO,Opportunity for Ramsey1069,Closed Won,1867750,1,1867750,Existing Business,Employee Referral,Closed,Marketing,1/15/2029,Won,1/15/2023
+0068d000009MWACAA4,Opportunity for Weber1078,Value Proposition,36960,0.5,18480,New Business / Add-on,Web,Pipeline,BDR,10/18/2029,Open,10/18/2023
+0068d000009MWADAA4,Opportunity for Bowman1081,Closed Won,218204,1,218204,New Business / Add-on,Seminar - Internal,Closed,Marketing,8/20/2028,Won,8/20/2022
+0068d000009MWAEAA4,Opportunity for Maxwell1082,Closed Won,457656,1,457656,New Business / Add-on,Web,Closed,AE,2/3/2029,Won,2/3/2023
+0068d000009MWAFAA4,Opportunity for Soto1087,Closed Won,263500,1,263500,New Business / Add-on,Seminar - Internal,Closed,Alliances,2/15/2029,Won,2/15/2023
+0068d000009MWAGAA4,Opportunity for Alvarez1088,Needs Analysis,2592000,0.2,518400,New Business,Public Relations,Pipeline,BDR,11/3/2029,Open,11/3/2023
+0068d000009MWAJAA4,Opportunity for Chandler1451,Closed Lost,163110,0,0,New Business / Add-on,Web,Omitted,AE,2/25/2029,Lost,2/25/2023
+0068d000009MWAKAA4,Opportunity for Grant1452,Prospecting,735870,0.1,73587,Existing Business,Employee Referral,Pipeline,AE,11/16/2029,Open,11/16/2023
+0068d000009MWALAA4,Opportunity for Bates1455,Value Proposition,482025,0.5,241012.5,New Business / Add-on,Word of mouth,Pipeline,Alliances,2/19/2030,Open,2/19/2022
+0068d000009MWAMAA4,Opportunity for Fisher1458,Closed Won,1438500,1,1438500,New Business / Add-on,Advertisement,Closed,BDR,10/5/2028,Won,10/5/2022
+0068d000009MWANAA4,Opportunity for Paul1460,Closed Lost,2714200,0,0,New Business,Partner,Omitted,Marketing,1/28/2029,Lost,1/28/2023
+0068d000009MWAOAA4,Opportunity for Cruz1461,Value Proposition,60160,0.5,30080,New Business,Advertisement,Pipeline,AE,9/15/2029,Open,9/15/2023
+0068d000009MWC8AAO,Opportunity for Holt1880,Closed Lost,950440,0,0,Existing Business,Partner,Omitted,Alliances,6/3/2028,Lost,6/3/2022
+0068d000009MWCAAA4,Opportunity for Barker1887,Closed Lost,1740500,0,0,New Business / Add-on,Public Relations,Omitted,BDR,3/16/2029,Lost,3/16/2023
+0068d000009MWCBAA4,Opportunity for Daniel1888,Value Proposition,1384600,0.5,692300,Existing Business,Seminar - Internal,Pipeline,BDR,8/30/2029,Open,8/30/2023
+0068d000009MWCCAA4,Opportunity for Phillips1889,Value Proposition,39600,0.5,19800,New Business / Add-on,Web,Pipeline,AE,1/17/2030,Open,1/17/2022
+0068d000009MWCDAA4,Opportunity for Hall1897,Perception Analysis,2925000,0.7,2047500,New Business,Employee Referral,BestCase,Marketing,2/23/2030,Open,2/23/2022
+0068d000009MWCEAA4,Opportunity for McKenzie1898,Closed Won,201720,1,201720,New Business,Word of mouth,Closed,Marketing,11/4/2028,Won,11/4/2022
+0068d000009MWCFAA4,Opportunity for Mullins1899,Closed Won,498520,1,498520,New Business,Partner,Closed,Marketing,8/1/2028,Won,8/1/2022
+0068d000009MWK2AAO,Opportunity for Kennedy1017,Closed Won,1590600,1,1590600,Existing Business,Web,Closed,Alliances,1/24/2029,Won,1/24/2023
+0068d000009MWK3AAO,Opportunity for Collier1376,Prospecting,89230,0.1,8923,New Business,Trade Show,Pipeline,Marketing,9/25/2029,Open,9/25/2023
+0068d000009MWK4AAO,Opportunity for Bridges1377,Closed Won,794270,1,794270,New Business,Advertisement,Closed,AE,1/22/2029,Won,1/22/2023
+0068d000009MWK5AAO,Opportunity for Elliott1378,Closed Lost,3164200,0,0,New Business,Partner,Omitted,Marketing,2/14/2029,Lost,2/14/2023
+0068d000009MWK6AAO,Opportunity for Ray1381,Closed Won,908360,1,908360,New Business / Add-on,Advertisement,Closed,AE,8/22/2029,Won,8/22/2023
+0068d000009MWK7AAO,Opportunity for Ryan1382,Closed Won,2346320,1,2346320,New Business / Add-on,Public Relations,Closed,AE,10/18/2028,Won,10/18/2022
+0068d000009MWK8AAO,Opportunity for Washington1383,Closed Won,208600,1,208600,New Business / Add-on,Partner,Closed,AE,2/27/2029,Won,2/27/2023
+0068d000009MWK9AAO,Opportunity for Griffin1384,Closed Lost,374162,0,0,New Business,Word of mouth,Omitted,Marketing,4/9/2029,Lost,4/9/2023
+0068d000009MWKAAA4,Opportunity for Simpson1385,Qualification,392207,0.1,39220.7,New Business,Word of mouth,Pipeline,Marketing,10/24/2029,Open,10/24/2023
+0068d000009MWLQAA4,Opportunity for Luna668,Closed Won,3251640,1,3251640,New Business / Add-on,Employee Referral,Closed,BDR,4/14/2029,Won,4/14/2023
+0068d000009MWLRAA4,Opportunity for Stevenson670,Value Proposition,2728890,0.5,1364445,New Business,Employee Referral,Pipeline,AE,3/1/2030,Open,3/1/2022
+0068d000009MWLSAA4,Opportunity for Ramirez671,Closed Lost,430330,0,0,Existing Business,Web,Omitted,Marketing,7/13/2029,Lost,7/13/2023
+0068d000009MW7iAAG,Opportunity for Mathis376,Closed Won,637520,1,637520,New Business,Advertisement,Closed,BDR,12/30/2028,Won,12/30/2022
+0068d000009MW7jAAG,Opportunity for Gray19,Closed Won,690210,1,690210,New Business,Public Relations,Closed,Marketing,9/1/2028,Won,9/1/2022
+0068d000009MW7kAAG,Opportunity for Hawkins22,Prospecting,136464,0.1,13646.4,New Business,Advertisement,Pipeline,Marketing,9/2/2029,Open,9/2/2023
+0068d000009MW7lAAG,Opportunity for McCormick23,Negotiation/Review,744440,0.9,669996,New Business,Trade Show,Forecast,Marketing,1/18/2030,Open,1/18/2022
+0068d000009MW7mAAG,Opportunity for Cox29,Closed Won,2345840,1,2345840,Existing Business,Trade Show,Closed,Alliances,5/31/2029,Won,5/31/2023
+0068d000009MW7oAAG,Opportunity for Bass32,Closed Won,4010350,1,4010350,New Business / Add-on,Employee Referral,Closed,BDR,12/27/2028,Won,12/27/2022
+0068d000009MW7pAAG,Opportunity for Butler33,Perception Analysis,8577295,0.7,6004106.5,New Business / Add-on,Trade Show,BestCase,Marketing,1/9/2030,Open,1/9/2022
+0068d000009MW7qAAG,Opportunity for Alvarez35,Closed Won,266400,1,266400,Existing Business,Trade Show,Closed,AE,7/17/2029,Won,7/17/2023
+0068d000009MW7rAAG,Opportunity for Nunez37,Closed Lost,809810,0,0,New Business / Add-on,Partner,Omitted,Alliances,7/31/2029,Lost,7/31/2023
+0068d000009MW7sAAG,Opportunity for Wilkins38,Closed Won,980500,1,980500,New Business / Add-on,Partner,Closed,Marketing,7/29/2029,Won,7/29/2023
+0068d000009MW7tAAG,Opportunity for Stevens152,Closed Lost,11883,0,0,Existing Business,Web,Omitted,Marketing,3/9/2029,Lost,3/9/2023
+0068d000009MW7vAAG,Opportunity for Vega154,Closed Lost,77270,0,0,New Business,Public Relations,Omitted,AE,3/28/2029,Lost,3/28/2023
+0068d000009MW7wAAG,Opportunity for Moss156,Negotiation/Review,857500,0.9,771750,New Business / Add-on,Web,Forecast,Marketing,10/18/2029,Open,10/18/2023
+0068d000009MW7xAAG,Opportunity for Hunt157,Closed Won,353136,1,353136,New Business,Employee Referral,Closed,AE,6/1/2028,Won,6/1/2022
+0068d000009MW7yAAG,Opportunity for Mendoza161,Closed Won,567800,1,567800,Existing Business,Advertisement,Closed,AE,8/8/2028,Won,8/8/2022
+0068d000009MW7zAAG,Opportunity for Todd162,Prospecting,465500,0.1,46550,New Business / Add-on,Advertisement,Pipeline,Marketing,10/29/2029,Open,10/29/2023
+0068d000009MWCHAA4,Opportunity for Lee759,Closed Won,710500,1,710500,New Business,Web,Closed,Alliances,11/7/2028,Won,11/7/2022
+0068d000009MWCKAA4,Opportunity for Walters765,Closed Won,623750,1,623750,New Business,Employee Referral,Closed,BDR,7/2/2029,Won,7/2/2023
+0068d000009MWCLAA4,Opportunity for Drake768,Perception Analysis,70368,0.7,49257.6,Existing Business,Partner,BestCase,AE,10/1/2029,Open,10/1/2023
+0068d000009MWCMAA4,Opportunity for Elliott770,Closed Won,646400,1,646400,New Business,Trade Show,Closed,BDR,3/20/2029,Won,3/20/2023
+0068d000009MWCNAA4,Opportunity for Malone772,Closed Won,5880,1,5880,New Business / Add-on,Employee Referral,Closed,AE,12/29/2028,Won,12/29/2022
+0068d000009MWCOAA4,Opportunity for Newton773,Closed Won,887240,1,887240,New Business,Seminar - Internal,Closed,Marketing,9/3/2028,Won,9/3/2022
+0068d000009MWEWAA4,Opportunity for Campbell1583,Closed Won,2008900,1,2008900,New Business,Partner,Closed,BDR,2/27/2029,Won,2/27/2023
+0068d000009MWEXAA4,Opportunity for Lamb1584,Closed Lost,1728950,0,0,Existing Business,Partner,Omitted,Marketing,5/23/2029,Lost,5/23/2023
+0068d000009MWEYAA4,Opportunity for Bates1952,Closed Won,127600,1,127600,New Business,Advertisement,Closed,AE,2/15/2029,Won,2/15/2023
+0068d000009MWEZAA4,Opportunity for Webster1954,Closed Won,171660,1,171660,New Business,Seminar - Internal,Closed,Marketing,8/11/2029,Won,8/11/2023
+0068d000009MWEaAAO,Opportunity for Cobb1955,Closed Won,446461,1,446461,New Business,Web,Closed,BDR,7/21/2028,Won,7/21/2022
+0068d000009MWEbAAO,Opportunity for Wilkerson1956,Closed Won,1128970,1,1128970,New Business,Public Relations,Closed,BDR,11/14/2028,Won,11/14/2022
+0068d000009MWEcAAO,Opportunity for Harper1957,Closed Won,421000,1,421000,New Business,Public Relations,Closed,BDR,8/19/2029,Won,8/19/2023
+0068d000009MWEdAAO,Opportunity for Stone1959,Closed Won,1052275,1,1052275,New Business / Add-on,Web,Closed,Marketing,6/19/2029,Won,6/19/2023
+0068d000009MWEeAAO,Opportunity for Bush1960,Closed Lost,1540000,0,0,New Business,Employee Referral,Omitted,AE,4/20/2029,Lost,4/20/2023
+0068d000009MWEgAAO,Opportunity for Murphy1963,Negotiation/Review,1241390,0.9,1117251,New Business,Seminar - Internal,Forecast,BDR,1/4/2030,Open,1/4/2022
+0068d000009MWEiAAO,Opportunity for Bowen1968,Qualification,125340,0.1,12534,New Business,Trade Show,Pipeline,Marketing,8/29/2029,Open,8/29/2023
+0068d000009MWEjAAO,Opportunity for Nguyen1971,Proposal/Price Quote,2049800,0.75,1537350,New Business / Add-on,Word of mouth,BestCase,Marketing,11/30/2029,Open,11/30/2023
+0068d000009MWGmAAO,Opportunity for Jacobs1642,Closed Lost,2560600,0,0,Existing Business,Trade Show,Omitted,Alliances,8/11/2029,Lost,8/11/2023
+0068d000009MWGnAAO,Opportunity for Baker1644,Closed Won,2440900,1,2440900,New Business,Trade Show,Closed,AE,1/1/2029,Won,1/1/2023
+0068d000009MWGoAAO,Opportunity for Austin1650,Closed Won,1132600,1,1132600,New Business / Add-on,Partner,Closed,AE,9/27/2028,Won,9/27/2022
+0068d000009MWGpAAO,Opportunity for Wright1651,Closed Won,286073,1,286073,New Business,Trade Show,Closed,Marketing,5/1/2029,Won,5/1/2023
+0068d000009MWGqAAO,Opportunity for McKenzie1652,Closed Won,2386625,1,2386625,New Business,Partner,Closed,Marketing,8/17/2029,Won,8/17/2023
+0068d000009MWGrAAO,Opportunity for Newton532,Negotiation/Review,45265,0.9,40738.5,New Business / Add-on,Employee Referral,Forecast,Marketing,8/29/2029,Open,8/29/2023
+0068d000009MWGsAAO,Opportunity for Schwartz533,Closed Won,632960,1,632960,New Business / Add-on,Advertisement,Closed,BDR,2/16/2029,Won,2/16/2023
+0068d000009MWGtAAO,Opportunity for Hunter534,Closed Lost,234750,0,0,Existing Business,Employee Referral,Omitted,BDR,2/20/2029,Lost,2/20/2023
+0068d000009MWGwAAO,Opportunity for Tate537,Closed Lost,1238650,0,0,New Business,Public Relations,Omitted,Marketing,12/25/2028,Lost,12/25/2022
+0068d000009MWGyAAO,Opportunity for Bryant543,Closed Won,3072000,1,3072000,New Business / Add-on,Trade Show,Closed,AE,8/17/2028,Won,8/17/2022
+0068d000009MWGzAAO,Opportunity for Wong544,Closed Lost,3498250,0,0,New Business,Employee Referral,Omitted,BDR,3/20/2029,Lost,3/20/2023
+0068d000009MWH0AAO,Opportunity for Mack545,Closed Won,551580,1,551580,New Business,Advertisement,Closed,Alliances,12/19/2028,Won,12/19/2022
+0068d000009MWH1AAO,Opportunity for Watkins896,Closed Won,358100,1,358100,New Business,Employee Referral,Closed,Marketing,6/11/2029,Won,6/11/2023
+0068d000009MWH2AAO,Opportunity for Bridges897,Closed Lost,1316850,0,0,Existing Business,Partner,Omitted,Marketing,1/25/2029,Lost,1/25/2023
+0068d000009MWH3AAO,Opportunity for Powell899,Closed Won,1802500,1,1802500,New Business,Word of mouth,Closed,Marketing,8/1/2028,Won,8/1/2022
+0068d000009MWH4AAO,Opportunity for Wilkerson900,Prospecting,3537660,0.1,353766,New Business,Trade Show,Pipeline,AE,2/21/2030,Open,2/21/2022
+0068d000009MWJjAAO,Opportunity for Weber619,Closed Won,3474950,1,3474950,New Business / Add-on,Public Relations,Closed,AE,6/26/2029,Won,6/26/2023
+0068d000009MWJkAAO,Opportunity for West620,Closed Won,2151600,1,2151600,Existing Business,Word of mouth,Closed,AE,4/30/2029,Won,4/30/2023
+0068d000009MWJlAAO,Opportunity for Ingram622,Closed Won,4841250,1,4841250,New Business,Word of mouth,Closed,AE,7/31/2028,Won,7/31/2022
+0068d000009MWJmAAO,Opportunity for Jackson625,Closed Won,1948800,1,1948800,Existing Business,Seminar - Internal,Closed,Marketing,3/10/2029,Won,3/10/2023
+0068d000009MWJnAAO,Opportunity for Daniels627,Qualification,1422600,0.1,142260,New Business / Add-on,Partner,Pipeline,Marketing,1/26/2030,Open,1/26/2022
+0068d000009MWJrAAO,Opportunity for McCarthy999,Closed Won,775200,1,775200,New Business,Trade Show,Closed,AE,3/1/2029,Won,3/1/2023
+0068d000009MWJtAAO,Opportunity for Chavez1002,Qualification,355680,0.1,35568,New Business,Employee Referral,Pipeline,Marketing,10/20/2029,Open,10/20/2023
+0068d000009MWJwAAO,Opportunity for Vasquez1005,Closed Won,269400,1,269400,New Business,Trade Show,Closed,Marketing,3/27/2029,Won,3/27/2023
+0068d000009MWJxAAO,Opportunity for Schultz1008,Closed Won,5188750,1,5188750,New Business / Add-on,Trade Show,Closed,AE,8/22/2028,Won,8/22/2022
+0068d000009MWJyAAO,Opportunity for Holmes1012,Qualification,1348890,0.1,134889,New Business,Advertisement,Pipeline,AE,2/6/2030,Open,2/6/2022
+0068d000009MWJzAAO,Opportunity for Richardson1013,Value Proposition,499733,0.5,249866.5,Existing Business,Partner,Pipeline,AE,9/1/2029,Open,9/1/2023
+0068d000009MWK0AAO,Opportunity for Floyd1015,Closed Won,401291,1,401291,New Business,Web,Closed,BDR,9/25/2028,Won,9/25/2022
+0068d000009MWK1AAO,Opportunity for Atkins1016,Closed Won,1926610,1,1926610,New Business,Word of mouth,Closed,Marketing,1/20/2029,Won,1/20/2023
+0068d000009MWKBAA4,Opportunity for Newman1387,Closed Won,2451210,1,2451210,Existing Business,Seminar - Internal,Closed,Marketing,5/30/2028,Won,5/30/2022
+0068d000009MWKCAA4,Opportunity for Boone1390,Closed Won,69240,1,69240,New Business,Web,Closed,Marketing,7/29/2029,Won,7/29/2023
+0068d000009MWKEAA4,Opportunity for Sanders1392,Closed Won,196890,1,196890,New Business / Add-on,Advertisement,Closed,Marketing,7/7/2029,Won,7/7/2023
+0068d000009MWKFAA4,Opportunity for Maldonado1393,Closed Won,739550,1,739550,New Business,Employee Referral,Closed,AE,11/29/2028,Won,11/29/2022
+0068d000009MWKHAA4,Opportunity for Moran1395,Closed Won,234500,1,234500,Existing Business,Word of mouth,Closed,BDR,6/8/2028,Won,6/8/2022
+0068d000009MWKIAA4,Opportunity for Robinson1397,Closed Won,33600,1,33600,New Business,Employee Referral,Closed,AE,11/9/2028,Won,11/9/2022
+0068d000009MWKJAA4,Opportunity for Salazar1398,Closed Won,555200,1,555200,New Business / Add-on,Word of mouth,Closed,BDR,5/19/2029,Won,5/19/2023
+0068d000009MWKKAA4,Opportunity for Kelly1755,Closed Won,197075,1,197075,New Business / Add-on,Trade Show,Closed,BDR,5/27/2029,Won,5/27/2023
+0068d000009MWKLAA4,Opportunity for Buchanan1756,Closed Lost,76532,0,0,New Business,Word of mouth,Omitted,Alliances,6/30/2029,Lost,6/30/2023
+0068d000009MWKMAA4,Opportunity for McGee1757,Proposal/Price Quote,360800,0.75,270600,New Business / Add-on,Partner,BestCase,AE,8/26/2029,Open,8/26/2023
+0068d000009MWKNAA4,Opportunity for Nguyen1759,Closed Lost,1324800,0,0,New Business / Add-on,Partner,Omitted,BDR,5/20/2029,Lost,5/20/2023
+0068d000009MWKOAA4,Opportunity for Luna1760,Closed Won,89400,1,89400,New Business / Add-on,Employee Referral,Closed,AE,10/24/2028,Won,10/24/2022
+0068d000009MWKPAA4,Opportunity for Sanders1761,Qualification,1049880,0.1,104988,New Business,Partner,Pipeline,BDR,9/7/2029,Open,9/7/2023
+0068d000009MWKRAA4,Opportunity for Zimmerman1763,Qualification,4747520,0.1,474752,New Business,Public Relations,Pipeline,AE,10/19/2029,Open,10/19/2023
+0068d000009MWKSAA4,Opportunity for Barton1764,Value Proposition,3209120,0.5,1604560,New Business,Partner,Pipeline,BDR,12/27/2029,Open,12/27/2023
+0068d000009MWKaAAO,Opportunity for Byrd640,Closed Won,499928,1,499928,New Business,Web,Closed,AE,2/21/2029,Won,2/21/2023
+0068d000009MWKbAAO,Opportunity for Carson641,Closed Won,376955,1,376955,Existing Business,Advertisement,Closed,AE,1/26/2029,Won,1/26/2023
+0068d000009MWKcAAO,Opportunity for Figueroa642,Needs Analysis,701400,0.2,140280,New Business,Seminar - Internal,Pipeline,Marketing,9/8/2029,Open,9/8/2023
+0068d000009MWKdAAO,Opportunity for Jensen643,Closed Won,898800,1,898800,New Business,Seminar - Internal,Closed,Alliances,11/20/2028,Won,11/20/2022
+0068d000009MWKeAAO,Opportunity for Frazier644,Qualification,1528750,0.1,152875,New Business / Add-on,Advertisement,Pipeline,BDR,10/1/2029,Open,10/1/2023
+0068d000009MWKfAAO,Opportunity for Barrett645,Closed Lost,2221650,0,0,New Business / Add-on,Employee Referral,Omitted,Marketing,5/28/2029,Lost,5/28/2023
+0068d000009MWKgAAO,Opportunity for Bowen646,Needs Analysis,1158700,0.2,231740,New Business,Trade Show,Pipeline,AE,9/10/2029,Open,9/10/2023
+0068d000009MWKiAAO,Opportunity for Ruiz650,Closed Won,209640,1,209640,New Business / Add-on,Trade Show,Closed,Marketing,7/18/2029,Won,7/18/2023
+0068d000009MWKjAAO,Opportunity for Blair652,Closed Won,965425,1,965425,New Business / Add-on,Public Relations,Closed,AE,10/10/2028,Won,10/10/2022
+0068d000009MW85AAG,Opportunity for Cunningham175,Closed Won,4357300,1,4357300,New Business / Add-on,Seminar - Internal,Closed,Marketing,2/23/2029,Won,2/23/2023
+0068d000009MW86AAG,Opportunity for Bush283,Proposal/Price Quote,4067300,0.75,3050475,New Business,Web,BestCase,Alliances,10/1/2029,Open,10/1/2023
+0068d000009MW87AAG,Opportunity for Pearson288,Closed Won,1790440,1,1790440,New Business,Employee Referral,Closed,AE,4/29/2029,Won,4/29/2023
+0068d000009MW88AAG,Opportunity for Higgins293,Negotiation/Review,3306425,0.9,2975782.5,Existing Business,Web,Forecast,BDR,9/10/2029,Open,9/10/2023
+0068d000009MW89AAG,Opportunity for Armstrong296,Closed Won,236040,1,236040,New Business,Employee Referral,Closed,BDR,11/27/2028,Won,11/27/2022
+0068d000009MW8AAAW,Opportunity for Francis298,Perception Analysis,219000,0.7,153300,New Business / Add-on,Employee Referral,BestCase,AE,10/12/2029,Open,10/12/2023
+0068d000009MW8BAAW,Opportunity for McBride299,Value Proposition,567000,0.5,283500,New Business,Employee Referral,Pipeline,AE,9/19/2029,Open,9/19/2023
+0068d000009MW8CAAW,Opportunity for Miller300,Closed Won,2303500,1,2303500,New Business,Public Relations,Closed,BDR,4/17/2029,Won,4/17/2023
+0068d000009MW8DAAW,Opportunity for Cross303,Perception Analysis,2086050,0.7,1460235,New Business,Public Relations,BestCase,AE,9/17/2029,Open,9/17/2023
+0068d000009MW8FAAW,Opportunity for Figueroa377,Perception Analysis,5839810,0.7,4087867,New Business / Add-on,Word of mouth,BestCase,Marketing,9/1/2029,Open,9/1/2023
+0068d000009MWH5AAO,Opportunity for McCoy901,Closed Won,2132690,1,2132690,New Business,Advertisement,Closed,AE,8/28/2028,Won,8/28/2022
+0068d000009MWHDAA4,Opportunity for West913,Closed Won,1418640,1,1418640,New Business,Advertisement,Closed,AE,6/19/2028,Won,6/19/2022
+0068d000009MWHEAA4,Opportunity for Armstrong916,Closed Lost,237283,0,0,New Business / Add-on,Web,Omitted,Marketing,5/25/2029,Lost,5/25/2023
+0068d000009MWH6AAO,Opportunity for Black902,Closed Won,340500,1,340500,New Business,Public Relations,Closed,Marketing,5/9/2029,Won,5/9/2023
+0068d000009MWH7AAO,Opportunity for Morales903,Closed Won,2317340,1,2317340,New Business / Add-on,Employee Referral,Closed,Marketing,6/14/2029,Won,6/14/2023
+0068d000009MWH8AAO,Opportunity for Doyle904,Closed Won,94283,1,94283,New Business,Trade Show,Closed,Marketing,7/11/2029,Won,7/11/2023
+0068d000009MWH9AAO,Opportunity for Williamson906,Closed Won,2449675,1,2449675,New Business / Add-on,Web,Closed,Alliances,6/9/2029,Won,6/9/2023
+0068d000009MWHAAA4,Opportunity for Black908,Closed Won,165000,1,165000,New Business,Word of mouth,Closed,Marketing,5/10/2029,Won,5/10/2023
+0068d000009MWHBAA4,Opportunity for Brady910,Closed Won,1355700,1,1355700,New Business / Add-on,Web,Closed,BDR,2/3/2029,Won,2/3/2023
+0068d000009MWHCAA4,Opportunity for Evans911,Value Proposition,185630,0.5,92815,New Business,Trade Show,Pipeline,Alliances,8/27/2029,Open,8/27/2023
+0068d000009MWKUAA4,Opportunity for Ramirez1767,Closed Won,3440,1,3440,New Business,Public Relations,Closed,Marketing,7/24/2029,Won,7/24/2023
+0068d000009MWKVAA4,Opportunity for James1768,Closed Won,1386250,1,1386250,New Business / Add-on,Word of mouth,Closed,AE,9/10/2028,Won,9/10/2022
+0068d000009MWKYAA4,Opportunity for Abbott636,Closed Won,121490,1,121490,New Business,Word of mouth,Closed,BDR,4/9/2029,Won,4/9/2023
+0068d000009MWKZAA4,Opportunity for Jefferson638,Closed Won,719960,1,719960,New Business / Add-on,Trade Show,Closed,BDR,4/20/2029,Won,4/20/2023
+0068d000009MWKlAAO,Opportunity for Bridges657,Qualification,1314400,0.1,131440,New Business,Trade Show,Pipeline,BDR,8/24/2029,Open,8/24/2023
+0068d000009MWKvAAO,Opportunity for Ortiz1039,Closed Won,128265,1,128265,New Business,Word of mouth,Closed,BDR,4/22/2029,Won,4/22/2023
+0068d000009MWKnAAO,Opportunity for Willis1022,Closed Won,296805,1,296805,Existing Business,Partner,Closed,AE,7/27/2029,Won,7/27/2023
+0068d000009MWKwAAO,Opportunity for Lopez1040,Closed Won,79550,1,79550,Existing Business,Word of mouth,Closed,Marketing,8/30/2028,Won,8/30/2022
+0068d000009MWKxAAO,Opportunity for Houston1041,Closed Won,3513380,1,3513380,New Business,Partner,Closed,BDR,5/20/2029,Won,5/20/2023
+0068d000009MWKqAAO,Opportunity for Santiago1026,Closed Won,2288250,1,2288250,New Business / Add-on,Partner,Closed,Marketing,4/7/2029,Won,4/7/2023
+0068d000009MWKzAAO,Opportunity for Gutierrez1402,Closed Won,96977,1,96977,New Business / Add-on,Trade Show,Closed,Marketing,5/13/2029,Won,5/13/2023
+0068d000009MWKsAAO,Opportunity for Walton1035,Closed Won,2550000,1,2550000,New Business,Employee Referral,Closed,Marketing,10/29/2028,Won,10/29/2022
+0068d000009MWL1AAO,Opportunity for Dixon1405,Qualification,644000,0.1,64400,New Business,Advertisement,Pipeline,Marketing,11/7/2029,Open,11/7/2023
+0068d000009MWKtAAO,Opportunity for Mendez1036,Closed Won,459280,1,459280,New Business / Add-on,Trade Show,Closed,Marketing,2/6/2029,Won,2/6/2023
+0068d000009MWL2AAO,Opportunity for Cobb1406,Qualification,802000,0.1,80200,New Business,Web,Pipeline,BDR,11/4/2029,Open,11/4/2023
+0068d000009MWL3AAO,Opportunity for Graves1407,Closed Lost,1423890,0,0,New Business,Seminar - Internal,Omitted,AE,11/4/2028,Lost,11/4/2022
+0068d000009MWLTAA4,Opportunity for Brown672,Closed Won,2684465,1,2684465,Existing Business,Employee Referral,Closed,Alliances,3/5/2029,Won,3/5/2023
+0068d000009MWLUAA4,Opportunity for Barton675,Closed Won,105210,1,105210,New Business / Add-on,Web,Closed,Marketing,12/9/2028,Won,12/9/2022
+0068d000009MWLVAA4,Opportunity for Duncan681,Closed Won,63600,1,63600,New Business,Word of mouth,Closed,BDR,9/8/2028,Won,9/8/2022
+0068d000009MWLWAA4,Opportunity for Manning1045,Closed Won,16843,1,16843,New Business / Add-on,Trade Show,Closed,Marketing,8/7/2028,Won,8/7/2022
+0068d000009MWLXAA4,Opportunity for Colon1047,Value Proposition,680,0.5,340,New Business / Add-on,Web,Pipeline,Alliances,8/29/2029,Open,8/29/2023
+0068d000009MWLaAAO,Opportunity for McKenzie1054,Closed Won,1224345,1,1224345,Existing Business,Partner,Closed,BDR,4/16/2029,Won,4/16/2023
+0068d000009MWLbAAO,Opportunity for Webb1055,Closed Lost,1264240,0,0,New Business / Add-on,Partner,Omitted,BDR,9/18/2028,Lost,9/18/2022
+0068d000009MWLcAAO,Opportunity for Hart1061,Closed Won,258140,1,258140,New Business,Web,Closed,AE,6/24/2028,Won,6/24/2022
+0068d000009MWLdAAO,Opportunity for Vega1066,Perception Analysis,201572,0.7,141100.4,New Business / Add-on,Partner,BestCase,Alliances,9/9/2029,Open,9/9/2023
+0068d000009MWAPAA4,Opportunity for Jacobs1464,Prospecting,5198280,0.1,519828,New Business,Advertisement,Pipeline,AE,8/24/2029,Open,8/24/2023
+0068d000009MWAQAA4,Opportunity for Walton1466,Closed Lost,558860,0,0,New Business / Add-on,Public Relations,Omitted,AE,11/1/2028,Lost,11/1/2022
+0068d000009MWARAA4,Opportunity for Lee1827,Needs Analysis,15760,0.2,3152,New Business,Advertisement,Pipeline,AE,9/12/2029,Open,9/12/2023
+0068d000009MWATAA4,Opportunity for Clarke1831,Closed Won,359939,1,359939,New Business,Employee Referral,Closed,Marketing,8/23/2028,Won,8/23/2022
+0068d000009MWAUAA4,Opportunity for Cross1834,Qualification,1756800,0.1,175680,New Business / Add-on,Partner,Pipeline,Alliances,1/31/2030,Open,1/31/2022
+0068d000009MWAVAA4,Opportunity for McGee1836,Closed Won,110986,1,110986,New Business / Add-on,Word of mouth,Closed,BDR,7/19/2029,Won,7/19/2023
+0068d000009MWAWAA4,Opportunity for Ramirez1837,Qualification,179964,0.1,17996.4,New Business,Word of mouth,Pipeline,Alliances,3/8/2030,Open,3/8/2022
+0068d000009MWAYAA4,Opportunity for Lawson1843,Closed Won,1876750,1,1876750,New Business,Employee Referral,Closed,BDR,7/27/2029,Won,7/27/2023
+0068d000009MWAZAA4,Opportunity for Medina1844,Value Proposition,3570200,0.5,1785100,Existing Business,Employee Referral,Pipeline,AE,9/4/2029,Open,9/4/2023
+0068d000009MWAbAAO,Opportunity for Roberts1847,Closed Won,1096500,1,1096500,New Business,Word of mouth,Closed,BDR,3/11/2029,Won,3/11/2023
+0068d000009MWAdAAO,Opportunity for Ramos1851,Closed Won,388890,1,388890,Existing Business,Advertisement,Closed,Marketing,2/22/2029,Won,2/22/2023
+0068d000009MWAeAAO,Opportunity for Adams708,Negotiation/Review,1269390,0.9,1142451,New Business,Partner,Forecast,Marketing,9/16/2029,Open,9/16/2023
+0068d000009MWAfAAO,Opportunity for Luna711,Value Proposition,281700,0.5,140850,New Business,Word of mouth,Pipeline,BDR,9/3/2029,Open,9/3/2023
+0068d000009MWAgAAO,Opportunity for Morgan713,Prospecting,2717500,0.1,271750,Existing Business,Advertisement,Pipeline,AE,12/28/2029,Open,12/28/2023
+0068d000009MWAhAAO,Opportunity for Massey714,Closed Won,559580,1,559580,New Business,Web,Closed,Marketing,8/18/2029,Won,8/18/2023
+0068d000009MWCPAA4,Opportunity for Hoffman774,Closed Won,152400,1,152400,New Business,Trade Show,Closed,BDR,3/3/2029,Won,3/3/2023
+0068d000009MWCRAA4,Opportunity for Waters780,Closed Won,902400,1,902400,Existing Business,Word of mouth,Closed,BDR,1/30/2029,Won,1/30/2023
+0068d000009MWCSAA4,Opportunity for Robbins1143,Qualification,365072,0.1,36507.2,New Business,Advertisement,Pipeline,Marketing,2/1/2030,Open,2/1/2022
+0068d000009MWCVAA4,Opportunity for Beck1148,Closed Won,52440,1,52440,New Business / Add-on,Word of mouth,Closed,BDR,5/29/2029,Won,5/29/2023
+0068d000009MWCWAA4,Opportunity for Poole1149,Closed Won,205489,1,205489,New Business,Trade Show,Closed,AE,12/26/2028,Won,12/26/2022
+0068d000009MWCZAA4,Opportunity for Santos1154,Closed Lost,1153670,0,0,New Business,Employee Referral,Omitted,AE,4/4/2029,Lost,4/4/2023
+0068d000009MWCaAAO,Opportunity for Lewis1160,Closed Won,1132470,1,1132470,New Business / Add-on,Word of mouth,Closed,Marketing,7/26/2029,Won,7/26/2023
+0068d000009MWCbAAO,Opportunity for Allen1162,Closed Won,1032800,1,1032800,Existing Business,Web,Closed,Marketing,6/13/2029,Won,6/13/2023
+0068d000009MWCdAAO,Opportunity for Lloyd1165,Value Proposition,439380,0.5,219690,New Business / Add-on,Employee Referral,Pipeline,Marketing,8/23/2029,Open,8/23/2023
+0068d000009MWCeAAO,Opportunity for Campbell1166,Closed Lost,1459175,0,0,New Business / Add-on,Employee Referral,Omitted,AE,5/16/2029,Lost,5/16/2023
+0068d000009MWCfAAO,Opportunity for Gill1167,Closed Lost,313200,0,0,New Business,Word of mouth,Omitted,AE,7/28/2029,Lost,7/28/2023
+0068d000009MWCgAAO,Opportunity for Gross1521,Closed Won,3263870,1,3263870,New Business / Add-on,Employee Referral,Closed,AE,3/10/2029,Won,3/10/2023
+0068d000009MWHFAA4,Opportunity for Swanson1282,Closed Won,70680,1,70680,New Business,Seminar - Internal,Closed,Marketing,12/30/2028,Won,12/30/2022
+0068d000009MWHHAA4,Opportunity for Bowers1284,Closed Won,229470,1,229470,Existing Business,Web,Closed,BDR,4/25/2029,Won,4/25/2023
+0068d000009MWHIAA4,Opportunity for Park1288,Closed Won,107040,1,107040,New Business / Add-on,Public Relations,Closed,Alliances,3/31/2029,Won,3/31/2023
+0068d000009MWHJAA4,Opportunity for Stevenson1289,Closed Won,1640210,1,1640210,New Business,Word of mouth,Closed,BDR,2/7/2029,Won,2/7/2023
+0068d000009MWHMAA4,Opportunity for Ball1294,Closed Won,27800,1,27800,Existing Business,Partner,Closed,Alliances,6/6/2028,Won,6/6/2022
+0068d000009MWHNAA4,Opportunity for Colon1295,Closed Won,667200,1,667200,Existing Business,Public Relations,Closed,AE,7/2/2029,Won,7/2/2023
+0068d000009MWHOAA4,Opportunity for Flores1296,Closed Won,2325850,1,2325850,Existing Business,Public Relations,Closed,Alliances,6/24/2029,Won,6/24/2023
+0068d000009MWHPAA4,Opportunity for Baldwin1297,Closed Won,638750,1,638750,New Business / Add-on,Trade Show,Closed,AE,9/1/2028,Won,9/1/2022
+0068d000009MWHQAA4,Opportunity for Clark1301,Closed Won,116360,1,116360,New Business / Add-on,Seminar - Internal,Closed,BDR,9/21/2028,Won,9/21/2022
+0068d000009MWHRAA4,Opportunity for Frank1303,Closed Won,1886550,1,1886550,New Business,Partner,Closed,Marketing,7/27/2028,Won,7/27/2022
+0068d000009MWHSAA4,Opportunity for Baker1304,Qualification,1918900,0.1,191890,New Business / Add-on,Seminar - Internal,Pipeline,AE,2/28/2030,Open,2/28/2022
+0068d000009MWHTAA4,Opportunity for Santos1305,Proposal/Price Quote,14640,0.75,10980,New Business,Partner,BestCase,BDR,9/12/2029,Open,9/12/2023
+0068d000009MWHVAA4,Opportunity for Nguyen1657,Closed Won,236610,1,236610,New Business,Web,Closed,Marketing,1/16/2029,Won,1/16/2023
+0068d000009MWL8AAO,Opportunity for Hart1416,Closed Won,3960970,1,3960970,New Business / Add-on,Advertisement,Closed,AE,1/21/2029,Won,1/21/2023
+0068d000009MWL9AAO,Opportunity for Martin1417,Closed Won,3712300,1,3712300,New Business,Advertisement,Closed,BDR,4/7/2029,Won,4/7/2023
+0068d000009MWLAAA4,Opportunity for Dawson1421,Closed Won,18900,1,18900,New Business / Add-on,Word of mouth,Closed,BDR,9/23/2028,Won,9/23/2022
+0068d000009MWLBAA4,Opportunity for Hines1779,Closed Won,1241900,1,1241900,Existing Business,Web,Closed,Marketing,2/22/2029,Won,2/22/2023
+0068d000009MWLCAA4,Opportunity for Morrison1784,Closed Won,343000,1,343000,New Business / Add-on,Web,Closed,BDR,7/21/2029,Won,7/21/2023
+0068d000009MWLDAA4,Opportunity for Paul1791,Closed Won,424600,1,424600,New Business,Advertisement,Closed,Marketing,6/25/2029,Won,6/25/2023
+0068d000009MWLEAA4,Opportunity for Andrews1792,Needs Analysis,1488450,0.2,297690,New Business / Add-on,Public Relations,Pipeline,Alliances,12/7/2029,Open,12/7/2023
+0068d000009MWLFAA4,Opportunity for Guzman1793,Qualification,136800,0.1,13680,New Business / Add-on,Web,Pipeline,AE,12/10/2029,Open,12/10/2023
+0068d000009MWLGAA4,Opportunity for Watson1794,Qualification,991350,0.1,99135,New Business / Add-on,Public Relations,Pipeline,AE,11/26/2029,Open,11/26/2023
+0068d000009MWLHAA4,Opportunity for Massey1797,Closed Won,1683185,1,1683185,New Business / Add-on,Word of mouth,Closed,Marketing,5/13/2029,Won,5/13/2023
+0068d000009MWLIAA4,Opportunity for Nelson1799,Closed Won,875880,1,875880,Existing Business,Web,Closed,Marketing,2/15/2029,Won,2/15/2023
+0068d000009MWLJAA4,Opportunity for Pena1800,Closed Won,54090,1,54090,New Business,Employee Referral,Closed,AE,9/9/2028,Won,9/9/2022
+0068d000009MWLKAA4,Opportunity for Pittman658,Closed Won,252545,1,252545,Existing Business,Employee Referral,Closed,AE,10/23/2028,Won,10/23/2022
+0068d000009MWLNAA4,Opportunity for Cunningham662,Proposal/Price Quote,25450,0.75,19087.5,New Business,Trade Show,BestCase,AE,1/16/2030,Open,1/16/2022
+0068d000009MWL5AAO,Opportunity for Maxwell1410,Closed Lost,2183750,0,0,New Business,Employee Referral,Omitted,BDR,5/5/2029,Lost,5/5/2023
+0068d000009MWLnAAO,Opportunity for Conner1442,Closed Lost,449660,0,0,Existing Business,Employee Referral,Omitted,AE,1/24/2029,Lost,1/24/2023
+0068d000009MWLgAAO,Opportunity for Love1426,Closed Lost,2649820,0,0,New Business,Trade Show,Omitted,AE,2/10/2029,Lost,2/10/2023
+0068d000009MWLoAAO,Opportunity for Robbins1443,Closed Lost,968870,0,0,New Business,Employee Referral,Omitted,AE,12/19/2028,Lost,12/19/2022
+0068d000009MWLhAAO,Opportunity for Flowers1427,Needs Analysis,1979000,0.2,395800,New Business / Add-on,Trade Show,Pipeline,Alliances,2/24/2030,Open,2/24/2022
+0068d000009MWLpAAO,Opportunity for Berry1447,Closed Won,470298,1,470298,New Business,Advertisement,Closed,Marketing,5/20/2029,Won,5/20/2023
+0068d000009MWLjAAO,Opportunity for Keller1431,Needs Analysis,2894390,0.2,578878,New Business,Trade Show,Pipeline,Alliances,9/13/2029,Open,9/13/2023
+0068d000009MWLrAAO,Opportunity for Marsh1806,Closed Won,58840,1,58840,New Business / Add-on,Partner,Closed,BDR,7/9/2029,Won,7/9/2023
+0068d000009MWLkAAO,Opportunity for Allison1432,Closed Lost,1471800,0,0,New Business,Employee Referral,Omitted,Marketing,7/31/2029,Lost,7/31/2023
+0068d000009MWLsAAO,Opportunity for Dunn1807,Closed Won,225083,1,225083,New Business / Add-on,Public Relations,Closed,AE,1/12/2029,Won,1/12/2023
+0068d000009MWLlAAO,Opportunity for Dixon1438,Closed Won,209955,1,209955,New Business,Web,Closed,AE,5/11/2029,Won,5/11/2023
+0068d000009MWLmAAO,Opportunity for Chandler1439,Needs Analysis,1648300,0.2,329660,Existing Business,Partner,Pipeline,Marketing,9/27/2029,Open,9/27/2023
+0068d000009MW8GAAW,Opportunity for Collins378,Closed Won,446850,1,446850,New Business,Employee Referral,Closed,AE,10/25/2028,Won,10/25/2022
+0068d000009MW8KAAW,Opportunity for May386,Closed Won,150240,1,150240,New Business,Employee Referral,Closed,Marketing,7/17/2029,Won,7/17/2023
+0068d000009MW8LAAW,Opportunity for Hart387,Needs Analysis,822800,0.2,164560,New Business / Add-on,Word of mouth,Pipeline,Alliances,1/6/2030,Open,1/6/2022
+0068d000009MW8MAAW,Opportunity for Perry395,Closed Won,237840,1,237840,New Business,Partner,Closed,Alliances,7/19/2029,Won,7/19/2023
+0068d000009MW8OAAW,Opportunity for Nunez399,Prospecting,844100,0.1,84410,New Business / Add-on,Advertisement,Pipeline,Marketing,10/25/2029,Open,10/25/2023
+0068d000009MW8PAAW,Opportunity for Goodwin400,Closed Won,175770,1,175770,New Business / Add-on,Partner,Closed,BDR,3/19/2029,Won,3/19/2023
+0068d000009MW8QAAW,Opportunity for Diaz177,Closed Won,130515,1,130515,New Business,Trade Show,Closed,Marketing,1/21/2029,Won,1/21/2023
+0068d000009MW8RAAW,Opportunity for Shaw178,Closed Lost,283440,0,0,New Business,Word of mouth,Omitted,Marketing,6/14/2029,Lost,6/14/2023
+0068d000009MW8SAAW,Opportunity for Lambert182,Value Proposition,1750200,0.5,875100,New Business / Add-on,Word of mouth,Pipeline,Marketing,8/24/2029,Open,8/24/2023
+0068d000009MW8TAAW,Opportunity for Blair183,Needs Analysis,2598300,0.2,519660,New Business,Word of mouth,Pipeline,BDR,12/11/2029,Open,12/11/2023
+0068d000009MW8UAAW,Opportunity for Barber186,Qualification,2340210,0.1,234021,New Business,Advertisement,Pipeline,BDR,11/27/2029,Open,11/27/2023
+0068d000009MW8VAAW,Opportunity for Owens189,Closed Lost,1755885,0,0,New Business,Word of mouth,Omitted,Marketing,1/3/2029,Lost,1/3/2023
+0068d000009MW8ZAAW,Opportunity for Frazier196,Perception Analysis,164700,0.7,115290,New Business / Add-on,Trade Show,BestCase,Marketing,2/5/2030,Open,2/5/2022
+0068d000009MWAnAAO,Opportunity for Joseph722,Value Proposition,327145,0.5,163572.5,Existing Business,Partner,Pipeline,BDR,1/31/2030,Open,1/31/2022
+0068d000009MWAoAAO,Opportunity for Silva728,Perception Analysis,1641600,0.7,1149120,Existing Business,Web,BestCase,Marketing,8/30/2029,Open,8/30/2023
+0068d000009MWApAAO,Opportunity for Simpson729,Prospecting,1666850,0.1,166685,New Business,Employee Referral,Pipeline,AE,10/22/2029,Open,10/22/2023
+0068d000009MWAqAAO,Opportunity for Moss732,Closed Won,461458,1,461458,Existing Business,Trade Show,Closed,Marketing,9/26/2028,Won,9/26/2022
+0068d000009MWArAAO,Opportunity for Pope1093,Closed Won,1134385,1,1134385,New Business,Employee Referral,Closed,BDR,1/11/2029,Won,1/11/2023
+0068d000009MWAjAAO,Opportunity for Freeman717,Value Proposition,1023320,0.5,511660,Existing Business,Word of mouth,Pipeline,Marketing,10/10/2029,Open,10/10/2023
+0068d000009MWAkAAO,Opportunity for Ross718,Closed Won,776540,1,776540,New Business / Add-on,Partner,Closed,Marketing,12/3/2028,Won,12/3/2022
+0068d000009MWAmAAO,Opportunity for Reeves721,Closed Won,2367210,1,2367210,New Business / Add-on,Advertisement,Closed,BDR,3/28/2029,Won,3/28/2023
+0068d000009MWCkAAO,Opportunity for Medina1531,Closed Lost,1722250,0,0,New Business / Add-on,Employee Referral,Omitted,Marketing,5/16/2029,Lost,5/16/2023
+0068d000009MWClAAO,Opportunity for Hill1534,Closed Won,3298750,1,3298750,New Business / Add-on,Trade Show,Closed,AE,11/12/2028,Won,11/12/2022
+0068d000009MWEkAAO,Opportunity for Malone1973,Value Proposition,108630,0.5,54315,New Business / Add-on,Trade Show,Pipeline,Alliances,9/15/2029,Open,9/15/2023
+0068d000009MWElAAO,Opportunity for Glover1974,Closed Won,48440,1,48440,Existing Business,Partner,Closed,AE,6/12/2028,Won,6/12/2022
+0068d000009MWEmAAO,Opportunity for Santiago1975,Prospecting,122200,0.1,12220,New Business,Seminar - Internal,Pipeline,AE,11/10/2029,Open,11/10/2023
+0068d000009MWEpAAO,Opportunity for Tucker470,Negotiation/Review,2254450,0.9,2029005,Existing Business,Web,Forecast,AE,9/25/2029,Open,9/25/2023
+0068d000009MWEqAAO,Opportunity for Norman472,Closed Won,2807700,1,2807700,New Business,Public Relations,Closed,Alliances,6/8/2029,Won,6/8/2023
+0068d000009MWErAAO,Opportunity for Hammond475,Closed Won,3469300,1,3469300,New Business,Word of mouth,Closed,AE,11/1/2028,Won,11/1/2022
+0068d000009MWEsAAO,Opportunity for Harrison476,Closed Won,2276590,1,2276590,New Business,Trade Show,Closed,BDR,4/3/2029,Won,4/3/2023
+0068d000009MWEtAAO,Opportunity for Stokes477,Closed Won,328949,1,328949,New Business,Employee Referral,Closed,Marketing,8/8/2029,Won,8/8/2023
+0068d000009MWHWAA4,Opportunity for Henry1658,Closed Lost,327600,0,0,New Business,Web,Omitted,BDR,1/5/2029,Lost,1/5/2023
+0068d000009MWHXAA4,Opportunity for Jackson1662,Closed Won,2302000,1,2302000,New Business,Seminar - Internal,Closed,Marketing,12/21/2028,Won,12/21/2022
+0068d000009MWHYAA4,Opportunity for Henry1665,Closed Won,49760,1,49760,New Business / Add-on,Advertisement,Closed,BDR,7/13/2029,Won,7/13/2023
+0068d000009MWHZAA4,Opportunity for Barton1670,Prospecting,364760,0.1,36476,New Business / Add-on,Employee Referral,Pipeline,Marketing,12/14/2029,Open,12/14/2023
+0068d000009MWHaAAO,Opportunity for Ramsey1673,Needs Analysis,3351780,0.2,670356,New Business,Employee Referral,Pipeline,Marketing,9/24/2029,Open,9/24/2023
+0068d000009MWHbAAO,Opportunity for Taylor1674,Closed Won,1542350,1,1542350,New Business,Seminar - Internal,Closed,BDR,8/16/2029,Won,8/16/2023
+0068d000009MWHcAAO,Opportunity for Johnston1675,Closed Won,804275,1,804275,New Business / Add-on,Web,Closed,AE,7/15/2029,Won,7/15/2023
+0068d000009MWLtAAO,Opportunity for Carlson1808,Closed Won,965700,1,965700,New Business,Word of mouth,Closed,Alliances,8/4/2028,Won,8/4/2022
+0068d000009MWLuAAO,Opportunity for Fleming1809,Closed Won,3077200,1,3077200,New Business,Word of mouth,Closed,AE,7/13/2029,Won,7/13/2023
+0068d000009MWLwAAO,Opportunity for Daniel1811,Closed Won,207240,1,207240,Existing Business,Public Relations,Closed,Marketing,2/19/2029,Won,2/19/2023
+0068d000009MWLxAAO,Opportunity for Chandler1816,Perception Analysis,470865,0.7,329605.5,New Business,Employee Referral,BestCase,Marketing,11/17/2029,Open,11/17/2023
+0068d000009MWLyAAO,Opportunity for Fox1817,Closed Won,807800,1,807800,Existing Business,Word of mouth,Closed,Alliances,1/18/2029,Won,1/18/2023
+0068d000009MWLzAAO,Opportunity for Hicks1818,Closed Won,1417400,1,1417400,New Business / Add-on,Partner,Closed,Marketing,2/28/2029,Won,2/28/2023
+0068d000009MWM0AAO,Opportunity for Moss1820,Perception Analysis,1489210,0.7,1042447,New Business,Word of mouth,BestCase,AE,12/20/2029,Open,12/20/2023
+0068d000009MWM1AAO,Opportunity for Miles1826,Closed Won,5335150,1,5335150,Existing Business,Employee Referral,Closed,AE,9/26/2028,Won,9/26/2022
+0068d000009MW8cAAG,Opportunity for Phelps203,Closed Won,22520,1,22520,New Business,Public Relations,Closed,AE,9/27/2028,Won,9/27/2022
+0068d000009MW8dAAG,Opportunity for Phelps205,Needs Analysis,53325,0.2,10665,Existing Business,Word of mouth,Pipeline,BDR,1/2/2030,Open,1/2/2022
+0068d000009MW8fAAG,Opportunity for White404,Closed Won,537880,1,537880,New Business / Add-on,Employee Referral,Closed,AE,10/6/2028,Won,10/6/2022
+0068d000009MW8gAAG,Opportunity for Morton406,Qualification,356880,0.1,35688,New Business / Add-on,Word of mouth,Pipeline,Alliances,9/3/2029,Open,9/3/2023
+0068d000009MW8iAAG,Opportunity for McKenzie412,Closed Lost,3626550,0,0,New Business / Add-on,Web,Omitted,Alliances,8/2/2028,Lost,8/2/2022
+0068d000009MW8kAAG,Opportunity for Abbott414,Closed Won,206587,1,206587,New Business,Employee Referral,Closed,AE,5/31/2028,Won,5/31/2022
+0068d000009MW8lAAG,Opportunity for West206,Closed Lost,2103270,0,0,New Business,Trade Show,Omitted,AE,1/28/2029,Lost,1/28/2023
+0068d000009MW8mAAG,Opportunity for Horton207,Closed Won,2166890,1,2166890,New Business,Partner,Closed,AE,5/5/2029,Won,5/5/2023
+0068d000009MW8oAAG,Opportunity for Johnston49,Closed Won,316040,1,316040,Existing Business,Word of mouth,Closed,Alliances,6/22/2029,Won,6/22/2023
+0068d000009MW8pAAG,Opportunity for Potter50,Closed Won,333830,1,333830,New Business,Word of mouth,Closed,Alliances,4/20/2029,Won,4/20/2023
+0068d000009MW8qAAG,Opportunity for Logan51,Closed Won,2093000,1,2093000,New Business / Add-on,Trade Show,Closed,BDR,9/24/2028,Won,9/24/2022
+0068d000009MW8sAAG,Opportunity for Jordan57,Closed Won,1455310,1,1455310,New Business / Add-on,Word of mouth,Closed,BDR,7/8/2029,Won,7/8/2023
+0068d000009MW8tAAG,Opportunity for Moss58,Closed Lost,2623525,0,0,New Business / Add-on,Public Relations,Omitted,AE,2/12/2029,Lost,2/12/2023
+0068d000009MWEuAAO,Opportunity for Henry479,Closed Won,3168250,1,3168250,New Business,Trade Show,Closed,BDR,8/8/2029,Won,8/8/2023
+0068d000009MWEvAAO,Opportunity for Shaw480,Perception Analysis,605000,0.7,423500,New Business,Partner,BestCase,AE,10/18/2029,Open,10/18/2023
+0068d000009MWEwAAO,Opportunity for Silva482,Closed Won,115290,1,115290,New Business,Advertisement,Closed,Marketing,7/10/2029,Won,7/10/2023
+0068d000009MW8uAAG,Opportunity for Bowen59,Perception Analysis,278337,0.7,194835.9,Existing Business,Employee Referral,BestCase,Marketing,10/13/2029,Open,10/13/2023
+0068d000009MW8wAAG,Opportunity for Bennett62,Value Proposition,208375,0.5,104187.5,New Business / Add-on,Trade Show,Pipeline,Alliances,10/28/2029,Open,10/28/2023
+0068d000009MW8yAAG,Opportunity for Black67,Closed Won,1683760,1,1683760,New Business,Web,Closed,Marketing,6/16/2028,Won,6/16/2022
+0068d000009MW90AAG,Opportunity for Lowe69,Closed Won,476918,1,476918,New Business,Employee Referral,Closed,Marketing,3/15/2029,Won,3/15/2023
+0068d000009MW92AAG,Opportunity for Schwartz75,Qualification,499450,0.1,49945,New Business / Add-on,Word of mouth,Pipeline,AE,9/22/2029,Open,9/22/2023
+0068d000009MW93AAG,Opportunity for Morales81,Closed Lost,1630580,0,0,New Business,Employee Referral,Omitted,Alliances,4/26/2029,Lost,4/26/2023
+0068d000009MW94AAG,Opportunity for Willis82,Closed Lost,308240,0,0,New Business,Trade Show,Omitted,AE,12/28/2028,Lost,12/28/2022
+0068d000009MW95AAG,Opportunity for Thompson83,Closed Lost,51920,0,0,New Business / Add-on,Web,Omitted,BDR,12/7/2028,Lost,12/7/2022
+0068d000009MW96AAG,Opportunity for Saunders86,Closed Won,87409,1,87409,New Business / Add-on,Public Relations,Closed,AE,6/17/2029,Won,6/17/2023
+0068d000009MW97AAG,Opportunity for Adams87,Value Proposition,1093390,0.5,546695,New Business / Add-on,Partner,Pipeline,AE,11/21/2029,Open,11/21/2023
+0068d000009MW98AAG,Opportunity for Peters89,Closed Won,492390,1,492390,New Business,Word of mouth,Closed,Alliances,9/8/2028,Won,9/8/2022
+0068d000009MW9AAAW,Opportunity for Becker94,Closed Lost,493255,0,0,New Business,Public Relations,Omitted,AE,8/19/2028,Lost,8/19/2022
+0068d000009MW9CAAW,Opportunity for Hughes209,Closed Lost,19640,0,0,Existing Business,Partner,Omitted,Alliances,4/24/2029,Lost,4/24/2023
+0068d000009MW9DAAW,Opportunity for Aguilar210,Closed Won,202174,1,202174,New Business,Seminar - Internal,Closed,AE,4/6/2029,Won,4/6/2023
+0068d000009MW9EAAW,Opportunity for Lopez212,Closed Won,2177800,1,2177800,Existing Business,Trade Show,Closed,Alliances,7/11/2029,Won,7/11/2023
+0068d000009MWCqAAO,Opportunity for Edwards1901,Closed Won,994680,1,994680,New Business / Add-on,Public Relations,Closed,Marketing,7/8/2029,Won,7/8/2023
+0068d000009MWCrAAO,Opportunity for Stevenson1907,Value Proposition,28440,0.5,14220,New Business / Add-on,Employee Referral,Pipeline,Marketing,9/26/2029,Open,9/26/2023
+0068d000009MWExAAO,Opportunity for Pittman483,Closed Lost,458680,0,0,Existing Business,Web,Omitted,AE,4/26/2029,Lost,4/26/2023
+0068d000009MWEyAAO,Opportunity for Sanchez828,Negotiation/Review,397710,0.9,357939,New Business,Partner,Forecast,AE,9/17/2029,Open,9/17/2023
+0068d000009MWF0AAO,Opportunity for Medina832,Closed Won,789160,1,789160,Existing Business,Word of mouth,Closed,Marketing,1/28/2029,Won,1/28/2023
+0068d000009MWF1AAO,Opportunity for Nash833,Closed Won,51480,1,51480,New Business / Add-on,Trade Show,Closed,Alliances,7/22/2029,Won,7/22/2023
+0068d000009MWF3AAO,Opportunity for Watkins842,Closed Lost,382900,0,0,New Business,Web,Omitted,AE,9/9/2028,Lost,9/9/2022
+0068d000009MWF4AAO,Opportunity for Thomas843,Closed Won,2124300,1,2124300,New Business,Word of mouth,Closed,Marketing,4/28/2029,Won,4/28/2023
+0068d000009MWF6AAO,Opportunity for Hughes845,Needs Analysis,1405500,0.2,281100,New Business,Word of mouth,Pipeline,Marketing,9/20/2029,Open,9/20/2023
+0068d000009MWHdAAO,Opportunity for Clayton1676,Needs Analysis,41500,0.2,8300,New Business,Advertisement,Pipeline,Marketing,1/21/2030,Open,1/21/2022
+0068d000009MWHhAAO,Opportunity for Stokes556,Closed Won,40900,1,40900,New Business,Partner,Closed,AE,7/9/2029,Won,7/9/2023
+0068d000009MWHiAAO,Opportunity for Franklin560,Prospecting,1420100,0.1,142010,New Business / Add-on,Seminar - Internal,Pipeline,Marketing,10/23/2029,Open,10/23/2023
+0068d000009MWHjAAO,Opportunity for Lane561,Closed Won,316726,1,316726,Existing Business,Employee Referral,Closed,AE,1/8/2029,Won,1/8/2023
+0068d000009MWHkAAO,Opportunity for Floyd923,Closed Won,2202900,1,2202900,New Business / Add-on,Trade Show,Closed,BDR,6/4/2029,Won,6/4/2023
+0068d000009MWHlAAO,Opportunity for Rowe925,Closed Won,424836,1,424836,New Business / Add-on,Trade Show,Closed,BDR,5/25/2029,Won,5/25/2023
+0068d000009MWHnAAO,Opportunity for Page927,Closed Won,219500,1,219500,Existing Business,Advertisement,Closed,Marketing,4/1/2029,Won,4/1/2023
+0068d000009MWHoAAO,Opportunity for Hicks930,Closed Lost,398311,0,0,New Business / Add-on,Web,Omitted,Marketing,4/20/2029,Lost,4/20/2023
+0068d000009MW9FAAW,Opportunity for Guzman213,Closed Won,640000,1,640000,New Business / Add-on,Advertisement,Closed,Alliances,5/12/2029,Won,5/12/2023
+0068d000009MW9IAAW,Opportunity for Johnson217,Closed Won,1935980,1,1935980,Existing Business,Word of mouth,Closed,Alliances,4/4/2029,Won,4/4/2023
+0068d000009MW9JAAW,Opportunity for Santos218,Closed Won,435960,1,435960,Existing Business,Word of mouth,Closed,Marketing,3/29/2029,Won,3/29/2023
+0068d000009MW9KAAW,Opportunity for Becker221,Closed Won,374505,1,374505,New Business / Add-on,Trade Show,Closed,BDR,3/26/2029,Won,3/26/2023
+0068d000009MW9LAAW,Opportunity for McCoy227,Closed Won,917500,1,917500,New Business / Add-on,Partner,Closed,BDR,2/17/2029,Won,2/17/2023
+0068d000009MW9MAAW,Opportunity for Lee231,Closed Lost,5423800,0,0,New Business,Public Relations,Omitted,BDR,7/4/2029,Lost,7/4/2023
+0068d000009MW9NAAW,Opportunity for Burns308,Needs Analysis,1188240,0.2,237648,Existing Business,Public Relations,Pipeline,AE,11/13/2029,Open,11/13/2023
+0068d000009MW9OAAW,Opportunity for Smith309,Closed Won,3709600,1,3709600,New Business,Employee Referral,Closed,BDR,2/16/2029,Won,2/16/2023
+0068d000009MW9PAAW,Opportunity for Pope310,Needs Analysis,3207480,0.2,641496,Existing Business,Word of mouth,Pipeline,BDR,9/21/2029,Open,9/21/2023
+0068d000009MWAsAAO,Opportunity for Miles1094,Closed Won,79480,1,79480,Existing Business,Partner,Closed,AE,5/23/2029,Won,5/23/2023
+0068d000009MWAtAAO,Opportunity for Morton1098,Closed Won,761000,1,761000,New Business / Add-on,Web,Closed,Marketing,2/25/2029,Won,2/25/2023
+0068d000009MWAuAAO,Opportunity for Mills1099,Closed Lost,254500,0,0,New Business / Add-on,Employee Referral,Omitted,BDR,5/19/2029,Lost,5/19/2023
+0068d000009MWAvAAO,Opportunity for Keller1100,Closed Won,1229730,1,1229730,Existing Business,Web,Closed,AE,7/19/2028,Won,7/19/2022
+0068d000009MWAwAAO,Opportunity for Todd1101,Closed Won,173566,1,173566,New Business,Advertisement,Closed,AE,7/29/2029,Won,7/29/2023
+0068d000009MWAxAAO,Opportunity for Montgomery1103,Closed Won,1058980,1,1058980,New Business,Employee Referral,Closed,BDR,6/27/2029,Won,6/27/2023
+0068d000009MWAyAAO,Opportunity for Luna1104,Closed Won,228220,1,228220,New Business / Add-on,Word of mouth,Closed,Marketing,5/30/2029,Won,5/30/2023
+0068d000009MWAzAAO,Opportunity for Myers1105,Closed Won,792270,1,792270,New Business / Add-on,Employee Referral,Closed,AE,8/9/2029,Won,8/9/2023
+0068d000009MWB0AAO,Opportunity for Jacobs1106,Closed Lost,78400,0,0,New Business,Word of mouth,Omitted,Marketing,11/19/2028,Lost,11/19/2022
+0068d000009MWB1AAO,Opportunity for Parsons1107,Closed Won,206000,1,206000,New Business / Add-on,Trade Show,Closed,AE,3/6/2029,Won,3/6/2023
+0068d000009MWCsAAO,Opportunity for Aguilar1908,Closed Won,3314900,1,3314900,Existing Business,Trade Show,Closed,AE,12/13/2028,Won,12/13/2022
+0068d000009MWCtAAO,Opportunity for Anderson1911,Closed Lost,1684910,0,0,New Business / Add-on,Web,Omitted,Alliances,6/17/2029,Lost,6/17/2023
+0068d000009MWCuAAO,Opportunity for Chandler1913,Closed Won,482760,1,482760,New Business / Add-on,Advertisement,Closed,AE,7/3/2029,Won,7/3/2023
+0068d000009MWCvAAO,Opportunity for Holt1914,Closed Won,125325,1,125325,New Business,Word of mouth,Closed,Marketing,10/13/2028,Won,10/13/2022
+0068d000009MWCxAAO,Opportunity for Walsh1918,Proposal/Price Quote,179700,0.75,134775,New Business / Add-on,Word of mouth,BestCase,AE,11/25/2029,Open,11/25/2023
+0068d000009MWCyAAO,Opportunity for Gordon1919,Closed Won,975175,1,975175,New Business,Employee Referral,Closed,Marketing,5/24/2029,Won,5/24/2023
+0068d000009MWCzAAO,Opportunity for White1920,Closed Lost,1535500,0,0,New Business,Partner,Omitted,BDR,6/23/2029,Lost,6/23/2023
+0068d000009MWD0AAO,Opportunity for Powers1925,Closed Lost,213440,0,0,New Business / Add-on,Partner,Omitted,AE,1/30/2029,Lost,1/30/2023
+0068d000009MWD2AAO,Opportunity for Lloyd424,Closed Won,389648,1,389648,New Business,Employee Referral,Closed,Marketing,3/11/2029,Won,3/11/2023
+0068d000009MWD3AAO,Opportunity for Reyes426,Qualification,830400,0.1,83040,New Business,Seminar - Internal,Pipeline,AE,10/29/2029,Open,10/29/2023
+0068d000009MWD4AAO,Opportunity for Mendoza431,Closed Lost,3615050,0,0,New Business,Word of mouth,Omitted,Marketing,5/8/2029,Lost,5/8/2023
+0068d000009MWD6AAO,Opportunity for Guerrero433,Closed Won,274656,1,274656,New Business,Advertisement,Closed,Marketing,1/28/2029,Won,1/28/2023
+0068d000009MWD7AAO,Opportunity for Dawson434,Closed Won,2111880,1,2111880,New Business,Word of mouth,Closed,BDR,12/12/2028,Won,12/12/2022
+0068d000009MWD8AAO,Opportunity for Ramos435,Closed Won,2942705,1,2942705,New Business / Add-on,Trade Show,Closed,Marketing,8/4/2029,Won,8/4/2023
+0068d000009MWD9AAO,Opportunity for Welch436,Closed Won,520500,1,520500,New Business / Add-on,Seminar - Internal,Closed,AE,7/12/2028,Won,7/12/2022
+0068d000009MWDAAA4,Opportunity for Estrada781,Closed Won,2182350,1,2182350,New Business,Partner,Closed,Alliances,9/12/2028,Won,9/12/2022
+0068d000009MWF8AAO,Opportunity for Patton847,Closed Lost,3836040,0,0,New Business,Trade Show,Omitted,Alliances,8/14/2028,Lost,8/14/2022
+0068d000009MWF9AAO,Opportunity for Weber1216,Closed Won,329425,1,329425,New Business / Add-on,Web,Closed,Marketing,3/6/2029,Won,3/6/2023
+0068d000009MWFAAA4,Opportunity for Bishop1217,Closed Won,409240,1,409240,New Business / Add-on,Partner,Closed,Marketing,1/19/2029,Won,1/19/2023
+0068d000009MWFBAA4,Opportunity for Byrd1219,Closed Won,2601440,1,2601440,Existing Business,Partner,Closed,Marketing,1/20/2029,Won,1/20/2023
+0068d000009MWFDAA4,Opportunity for Carpenter1221,Proposal/Price Quote,2887700,0.75,2165775,New Business,Advertisement,BestCase,BDR,9/5/2029,Open,9/5/2023
+0068d000009MWFEAA4,Opportunity for Spencer1223,Perception Analysis,32480,0.7,22736,New Business,Partner,BestCase,BDR,11/28/2029,Open,11/28/2023
+0068d000009MWFFAA4,Opportunity for Romero1224,Perception Analysis,4561,0.7,3192.7,New Business,Partner,BestCase,AE,12/22/2029,Open,12/22/2023
+0068d000009MWFGAA4,Opportunity for Young1227,Closed Won,1207960,1,1207960,New Business / Add-on,Seminar - Internal,Closed,BDR,8/18/2029,Won,8/18/2023
+0068d000009MWFHAA4,Opportunity for Paul1228,Closed Won,368530,1,368530,Existing Business,Web,Closed,BDR,7/26/2029,Won,7/26/2023
+0068d000009MWFIAA4,Opportunity for Higgins1229,Closed Won,720875,1,720875,New Business / Add-on,Partner,Closed,AE,5/16/2029,Won,5/16/2023
+0068d000009MWFJAA4,Opportunity for Brown1230,Qualification,2454990,0.1,245499,New Business / Add-on,Word of mouth,Pipeline,Marketing,12/16/2029,Open,12/16/2023
+0068d000009MWFLAA4,Opportunity for Bass1237,Qualification,2855840,0.1,285584,New Business / Add-on,Partner,Pipeline,AE,3/1/2030,Open,3/1/2022
+0068d000009MWFNAA4,Opportunity for Barton1587,Closed Lost,65070,0,0,New Business / Add-on,Web,Omitted,AE,3/2/2029,Lost,3/2/2023
+0068d000009MWFOAA4,Opportunity for Howard1588,Closed Won,65920,1,65920,New Business,Web,Closed,AE,7/16/2028,Won,7/16/2022
+0068d000009MWFPAA4,Opportunity for Norman1589,Closed Won,1390500,1,1390500,New Business,Partner,Closed,AE,9/17/2028,Won,9/17/2022
+0068d000009MWHqAAO,Opportunity for Farmer932,Closed Won,2339200,1,2339200,New Business,Advertisement,Closed,Marketing,9/21/2028,Won,9/21/2022
+0068d000009MWHrAAO,Opportunity for Burton933,Closed Lost,388760,0,0,New Business / Add-on,Partner,Omitted,BDR,8/1/2029,Lost,8/1/2023
+0068d000009MWHsAAO,Opportunity for Mack935,Closed Won,76800,1,76800,New Business,Word of mouth,Closed,Marketing,7/6/2029,Won,7/6/2023
+0068d000009MWHtAAO,Opportunity for Jefferson936,Closed Won,95400,1,95400,New Business,Employee Referral,Closed,Marketing,5/5/2029,Won,5/5/2023
+0068d000009MWHuAAO,Opportunity for Fowler938,Closed Lost,720520,0,0,New Business,Partner,Omitted,BDR,6/21/2028,Lost,6/21/2022
+0068d000009MWHvAAO,Opportunity for Wong939,Closed Won,390400,1,390400,Existing Business,Advertisement,Closed,Marketing,10/12/2028,Won,10/12/2022
+0068d000009MWHwAAO,Opportunity for Cruz1306,Perception Analysis,578880,0.7,405216,New Business / Add-on,Trade Show,BestCase,Marketing,8/30/2029,Open,8/30/2023
+0068d000009MWHxAAO,Opportunity for Johnson1307,Closed Lost,2165900,0,0,Existing Business,Word of mouth,Omitted,AE,7/2/2029,Lost,7/2/2023
+0068d000009MWHyAAO,Opportunity for Pittman1309,Closed Won,200400,1,200400,Existing Business,Advertisement,Closed,BDR,5/8/2029,Won,5/8/2023
+0068d000009MWI1AAO,Opportunity for Singleton1321,Closed Lost,1202450,0,0,New Business / Add-on,Partner,Omitted,AE,6/28/2028,Lost,6/28/2022
+0068d000009MWI2AAO,Opportunity for Gutierrez1322,Closed Won,89320,1,89320,Existing Business,Web,Closed,AE,7/5/2028,Won,7/5/2022
+0068d000009MWB3AAO,Opportunity for Gardner1110,Needs Analysis,645700,0.2,129140,New Business,Trade Show,Pipeline,AE,11/12/2029,Open,11/12/2023
+0068d000009MWB4AAO,Opportunity for Harrington1112,Qualification,905000,0.1,90500,New Business,Employee Referral,Pipeline,BDR,9/21/2029,Open,9/21/2023
+0068d000009MWB5AAO,Opportunity for Rodriquez1114,Closed Won,1598060,1,1598060,New Business,Employee Referral,Closed,AE,9/5/2028,Won,9/5/2022
+0068d000009MWB6AAO,Opportunity for Tyler1115,Value Proposition,114000,0.5,57000,New Business / Add-on,Employee Referral,Pipeline,Marketing,9/24/2029,Open,9/24/2023
+0068d000009MWB7AAO,Opportunity for West1117,Closed Won,3609320,1,3609320,New Business,Employee Referral,Closed,Marketing,7/9/2029,Won,7/9/2023
+0068d000009MWB8AAO,Opportunity for Rodriquez1469,Closed Won,491550,1,491550,New Business / Add-on,Seminar - Internal,Closed,BDR,8/8/2029,Won,8/8/2023
+0068d000009MWB9AAO,Opportunity for Martin1471,Closed Won,24536,1,24536,New Business,Seminar - Internal,Closed,BDR,2/1/2029,Won,2/1/2023
+0068d000009MWBAAA4,Opportunity for Simpson1472,Closed Won,283466,1,283466,New Business,Word of mouth,Closed,BDR,5/19/2029,Won,5/19/2023
+0068d000009MWBBAA4,Opportunity for Santos1475,Closed Won,345554,1,345554,New Business / Add-on,Trade Show,Closed,BDR,7/13/2029,Won,7/13/2023
+0068d000009MWBCAA4,Opportunity for Simon1477,Closed Lost,325680,0,0,New Business,Web,Omitted,BDR,9/30/2028,Lost,9/30/2022
+0068d000009MWBEAA4,Opportunity for Harmon1481,Closed Won,1738370,1,1738370,New Business,Word of mouth,Closed,BDR,2/18/2029,Won,2/18/2023
+0068d000009MWBFAA4,Opportunity for Reed1483,Closed Won,1755000,1,1755000,New Business,Employee Referral,Closed,BDR,3/14/2029,Won,3/14/2023
+0068d000009MWDBAA4,Opportunity for Moody784,Closed Won,82925,1,82925,New Business,Public Relations,Closed,AE,2/14/2029,Won,2/14/2023
+0068d000009MWDCAA4,Opportunity for Harrison791,Closed Won,193500,1,193500,New Business / Add-on,Employee Referral,Closed,Alliances,6/9/2029,Won,6/9/2023
+0068d000009MWDEAA4,Opportunity for Phillips797,Closed Won,1313950,1,1313950,New Business,Advertisement,Closed,Marketing,1/27/2029,Won,1/27/2023
+0068d000009MWDFAA4,Opportunity for Blair798,Qualification,23642,0.1,2364.2,New Business / Add-on,Employee Referral,Pipeline,AE,9/15/2029,Open,9/15/2023
+0068d000009MWDGAA4,Opportunity for Beck799,Closed Won,363453,1,363453,New Business / Add-on,Partner,Closed,AE,6/24/2029,Won,6/24/2023
+0068d000009MWDHAA4,Opportunity for Sullivan800,Negotiation/Review,577250,0.9,519525,New Business,Seminar - Internal,Forecast,Marketing,9/1/2029,Open,9/1/2023
+0068d000009MWDIAA4,Opportunity for George802,Closed Won,214100,1,214100,Existing Business,Advertisement,Closed,Alliances,7/3/2029,Won,7/3/2023
+0068d000009MWDJAA4,Opportunity for Gill1168,Closed Won,786875,1,786875,New Business,Seminar - Internal,Closed,AE,8/4/2028,Won,8/4/2022
+0068d000009MWDLAA4,Opportunity for Osborne1170,Closed Won,71880,1,71880,New Business / Add-on,Trade Show,Closed,Marketing,12/2/2028,Won,12/2/2022
+0068d000009MWDNAA4,Opportunity for Knight1172,Closed Won,2113750,1,2113750,New Business,Partner,Closed,BDR,3/27/2029,Won,3/27/2023
+0068d000009MWDOAA4,Opportunity for Carson1177,Closed Lost,93733,0,0,New Business / Add-on,Partner,Omitted,Marketing,7/3/2029,Lost,7/3/2023
+0068d000009MWDQAA4,Opportunity for Padilla1183,Closed Won,66246,1,66246,New Business,Employee Referral,Closed,Alliances,6/4/2029,Won,6/4/2023
+0068d000009MWDRAA4,Opportunity for Abbott1184,Closed Won,2016250,1,2016250,Existing Business,Trade Show,Closed,BDR,5/14/2029,Won,5/14/2023
+0068d000009MWDSAA4,Opportunity for Porter1185,Closed Won,3960350,1,3960350,New Business,Web,Closed,AE,12/18/2028,Won,12/18/2022
+0068d000009MWDTAA4,Opportunity for Rice1187,Proposal/Price Quote,261400,0.75,196050,New Business,Word of mouth,BestCase,AE,3/6/2030,Open,3/6/2022
+0068d000009MWDUAA4,Opportunity for Waters1188,Closed Won,1163610,1,1163610,New Business,Public Relations,Closed,Marketing,12/6/2028,Won,12/6/2022
+0068d000009MWI3AAO,Opportunity for Patterson1324,Closed Lost,1292300,0,0,New Business / Add-on,Employee Referral,Omitted,Alliances,3/4/2029,Lost,3/4/2023
+0068d000009MWI4AAO,Opportunity for Blair1326,Closed Won,72720,1,72720,New Business / Add-on,Partner,Closed,BDR,1/26/2029,Won,1/26/2023
+0068d000009MWI5AAO,Opportunity for Flores1679,Closed Lost,2641175,0,0,New Business / Add-on,Advertisement,Omitted,Marketing,4/25/2029,Lost,4/25/2023
+0068d000009MWI6AAO,Opportunity for Steele1680,Closed Won,2207200,1,2207200,Existing Business,Web,Closed,AE,8/15/2029,Won,8/15/2023
+0068d000009MWIBAA4,Opportunity for Barnett1692,Needs Analysis,4708010,0.2,941602,New Business,Word of mouth,Pipeline,BDR,8/24/2029,Open,8/24/2023
+0068d000009MWICAA4,Opportunity for Figueroa1695,Closed Won,2604140,1,2604140,New Business,Partner,Closed,BDR,10/14/2028,Won,10/14/2022
+0068d000009MWIEAA4,Opportunity for Watkins1701,Closed Lost,831100,0,0,New Business,Partner,Omitted,Marketing,10/14/2028,Lost,10/14/2022
+0068d000009MWIFAA4,Opportunity for Long562,Closed Won,249600,1,249600,New Business / Add-on,Employee Referral,Closed,AE,10/20/2028,Won,10/20/2022
+0068d000009MWIGAA4,Opportunity for Schneider564,Closed Won,146771,1,146771,New Business / Add-on,Word of mouth,Closed,Marketing,3/21/2029,Won,3/21/2023
+0068d000009MWIIAA4,Opportunity for Webb567,Closed Lost,65040,0,0,New Business / Add-on,Employee Referral,Omitted,BDR,7/2/2028,Lost,7/2/2022
+0068d000009MWIJAA4,Opportunity for Reese570,Prospecting,2217555,0.1,221755.5,New Business,Trade Show,Pipeline,Marketing,8/31/2029,Open,8/31/2023
+0068d000009MWIKAA4,Opportunity for Hunt578,Closed Won,1012640,1,1012640,New Business,Public Relations,Closed,BDR,3/30/2029,Won,3/30/2023
+0068d000009MWILAA4,Opportunity for Watson580,Closed Won,4090880,1,4090880,New Business / Add-on,Employee Referral,Closed,AE,5/30/2029,Won,5/30/2023
+0068d000009MWIMAA4,Opportunity for Carr581,Closed Won,61500,1,61500,New Business,Word of mouth,Closed,BDR,1/8/2029,Won,1/8/2023
+0068d000009MW9QAAW,Opportunity for Tyler313,Closed Lost,55530,0,0,Existing Business,Employee Referral,Omitted,BDR,12/24/2028,Lost,12/24/2022
+0068d000009MW9SAAW,Opportunity for McGee320,Closed Lost,637600,0,0,Existing Business,Partner,Omitted,Marketing,7/15/2028,Lost,7/15/2022
+0068d000009MW9TAAW,Opportunity for Olson321,Qualification,3729975,0.1,372997.5,Existing Business,Employee Referral,Pipeline,AE,2/16/2030,Open,2/16/2022
+0068d000009MW9UAAW,Opportunity for Holland322,Closed Lost,384840,0,0,Existing Business,Employee Referral,Omitted,AE,3/18/2029,Lost,3/18/2023
+0068d000009MW9VAAW,Opportunity for Martin324,Closed Won,7747190,1,7747190,New Business,Trade Show,Closed,Alliances,11/5/2028,Won,11/5/2022
+0068d000009MW9WAAW,Opportunity for Castillo325,Closed Won,131750,1,131750,New Business,Partner,Closed,AE,1/4/2029,Won,1/4/2023
+0068d000009MW9XAAW,Opportunity for Klein103,Closed Won,84329,1,84329,Existing Business,Partner,Closed,AE,1/30/2029,Won,1/30/2023
+0068d000009MW9ZAAW,Opportunity for Ramirez108,Closed Won,87240,1,87240,New Business,Employee Referral,Closed,AE,7/25/2029,Won,7/25/2023
+0068d000009MW9aAAG,Opportunity for Jones110,Closed Won,1193160,1,1193160,New Business / Add-on,Employee Referral,Closed,Marketing,3/13/2029,Won,3/13/2023
+0068d000009MW9cAAG,Opportunity for Lynch113,Closed Won,1817900,1,1817900,New Business,Partner,Closed,AE,8/12/2029,Won,8/12/2023
+0068d000009MW9eAAG,Opportunity for Carroll233,Closed Won,1578500,1,1578500,New Business / Add-on,Trade Show,Closed,Marketing,2/5/2029,Won,2/5/2023
+0068d000009MW9fAAG,Opportunity for Murphy234,Closed Won,2734080,1,2734080,Existing Business,Word of mouth,Closed,AE,9/27/2028,Won,9/27/2022
+0068d000009MWBHAA4,Opportunity for Klein1486,Prospecting,431073,0.1,43107.3,New Business,Employee Referral,Pipeline,AE,10/29/2029,Open,10/29/2023
+0068d000009MWBIAA4,Opportunity for Stone1492,Closed Lost,3163400,0,0,New Business,Word of mouth,Omitted,BDR,12/21/2028,Lost,12/21/2022
+0068d000009MWBJAA4,Opportunity for Barnes1852,Closed Lost,1635400,0,0,New Business,Web,Omitted,AE,2/13/2029,Lost,2/13/2023
+0068d000009MWBKAA4,Opportunity for Johnston1857,Closed Won,163800,1,163800,New Business / Add-on,Employee Referral,Closed,AE,2/1/2029,Won,2/1/2023
+0068d000009MWBMAA4,Opportunity for Smith1859,Negotiation/Review,1261290,0.9,1135161,New Business,Word of mouth,Forecast,BDR,12/28/2029,Open,12/28/2023
+0068d000009MWBNAA4,Opportunity for Thornton1860,Closed Won,193757,1,193757,Existing Business,Word of mouth,Closed,BDR,1/31/2029,Won,1/31/2023
+0068d000009MWBOAA4,Opportunity for Ramsey1863,Closed Won,1885475,1,1885475,New Business,Trade Show,Closed,BDR,3/3/2029,Won,3/3/2023
+0068d000009MWBPAA4,Opportunity for Mathis1864,Needs Analysis,2628850,0.2,525770,New Business,Public Relations,Pipeline,AE,10/23/2029,Open,10/23/2023
+0068d000009MWBRAA4,Opportunity for Price1866,Closed Won,466000,1,466000,New Business,Partner,Closed,AE,3/14/2029,Won,3/14/2023
+0068d000009MWBTAA4,Opportunity for Moore1870,Closed Won,165920,1,165920,New Business / Add-on,Word of mouth,Closed,Marketing,7/8/2028,Won,7/8/2022
+0068d000009MWDVAA4,Opportunity for Vasquez1191,Closed Won,2101255,1,2101255,Existing Business,Partner,Closed,BDR,2/27/2029,Won,2/27/2023
+0068d000009MWDWAA4,Opportunity for Tate1543,Closed Won,460956,1,460956,New Business,Word of mouth,Closed,BDR,3/8/2029,Won,3/8/2023
+0068d000009MWDXAA4,Opportunity for Bates1547,Closed Won,3426450,1,3426450,New Business / Add-on,Partner,Closed,AE,6/12/2029,Won,6/12/2023
+0068d000009MWDYAA4,Opportunity for McKinney1548,Qualification,3526355,0.1,352635.5,New Business / Add-on,Public Relations,Pipeline,AE,1/5/2030,Open,1/5/2022
+0068d000009MWDZAA4,Opportunity for Banks1549,Closed Won,363901,1,363901,New Business,Advertisement,Closed,Alliances,5/17/2029,Won,5/17/2023
+0068d000009MWDaAAO,Opportunity for Burgess1551,Closed Won,68600,1,68600,New Business / Add-on,Web,Closed,Marketing,7/25/2029,Won,7/25/2023
+0068d000009MWDbAAO,Opportunity for Reynolds1553,Value Proposition,3464115,0.5,1732057.5,New Business / Add-on,Advertisement,Pipeline,BDR,10/1/2029,Open,10/1/2023
+0068d000009MWDcAAO,Opportunity for Mitchell1555,Closed Won,123280,1,123280,New Business / Add-on,Advertisement,Closed,AE,8/15/2029,Won,8/15/2023
+0068d000009MWDfAAO,Opportunity for Chapman1566,Closed Won,2294400,1,2294400,New Business / Add-on,Advertisement,Closed,Alliances,8/11/2028,Won,8/11/2022
+0068d000009MWDhAAO,Opportunity for Munoz1931,Closed Won,1113000,1,1113000,New Business / Add-on,Partner,Closed,AE,9/14/2028,Won,9/14/2022
+0068d000009MWINAA4,Opportunity for Butler582,Prospecting,224800,0.1,22480,New Business,Partner,Pipeline,BDR,12/26/2029,Open,12/26/2023
+0068d000009MWIOAA4,Opportunity for Johnston583,Closed Won,399300,1,399300,New Business,Public Relations,Closed,Marketing,6/8/2029,Won,6/8/2023
+0068d000009MWIPAA4,Opportunity for Dunn946,Closed Won,2389600,1,2389600,New Business / Add-on,Employee Referral,Closed,BDR,8/9/2029,Won,8/9/2023
+0068d000009MWIQAA4,Opportunity for Davis947,Closed Won,1574960,1,1574960,Existing Business,Advertisement,Closed,Alliances,7/24/2029,Won,7/24/2023
+0068d000009MWIRAA4,Opportunity for Stokes949,Needs Analysis,3915950,0.2,783190,Existing Business,Seminar - Internal,Pipeline,BDR,11/27/2029,Open,11/27/2023
+0068d000009MWISAA4,Opportunity for Bryant952,Value Proposition,1379300,0.5,689650,New Business / Add-on,Partner,Pipeline,Marketing,8/31/2029,Open,8/31/2023
+0068d000009MWITAA4,Opportunity for Salazar953,Perception Analysis,100267,0.7,70186.9,New Business,Employee Referral,BestCase,BDR,10/6/2029,Open,10/6/2023
+0068d000009MWIUAA4,Opportunity for Alexander954,Value Proposition,895135,0.5,447567.5,Existing Business,Employee Referral,Pipeline,BDR,12/17/2029,Open,12/17/2023
+0068d000009MWIVAA4,Opportunity for Dennis956,Qualification,2285700,0.1,228570,New Business,Employee Referral,Pipeline,AE,11/7/2029,Open,11/7/2023
+0068d000009MWIWAA4,Opportunity for Estrada957,Negotiation/Review,488860,0.9,439974,New Business,Trade Show,Forecast,Marketing,11/19/2029,Open,11/19/2023
+0068d000009MWIXAA4,Opportunity for Rodriquez958,Qualification,413100,0.1,41310,New Business / Add-on,Partner,Pipeline,AE,3/10/2030,Open,3/10/2022
+0068d000009MWIYAA4,Opportunity for Jackson959,Closed Won,2632925,1,2632925,New Business,Public Relations,Closed,AE,4/26/2029,Won,4/26/2023
+0068d000009MWIZAA4,Opportunity for McBride960,Closed Won,412385,1,412385,New Business,Public Relations,Closed,BDR,5/18/2029,Won,5/18/2023
+0068d000009MWIaAAO,Opportunity for Jimenez961,Needs Analysis,449700,0.2,89940,New Business,Employee Referral,Pipeline,Alliances,11/16/2029,Open,11/16/2023
+0068d000009MWIbAAO,Opportunity for Moore962,Negotiation/Review,39960,0.9,35964,New Business,Advertisement,Forecast,AE,11/25/2029,Open,11/25/2023
+0068d000009MWIcAAO,Opportunity for Wade966,Needs Analysis,552000,0.2,110400,New Business,Web,Pipeline,Marketing,1/13/2030,Open,1/13/2022
+0068d000009MW9iAAG,Opportunity for Willis238,Closed Won,2250950,1,2250950,New Business,Seminar - Internal,Closed,Alliances,6/3/2028,Won,6/3/2022
+0068d000009MW9mAAG,Opportunity for Padilla247,Closed Lost,1214160,0,0,New Business / Add-on,Partner,Omitted,AE,2/14/2029,Lost,2/14/2023
+0068d000009MW9nAAG,Opportunity for Barnett252,Closed Won,431194,1,431194,Existing Business,Employee Referral,Closed,BDR,2/14/2029,Won,2/14/2023
+0068d000009MW9oAAG,Opportunity for Ford255,Closed Won,377690,1,377690,New Business / Add-on,Partner,Closed,AE,10/2/2028,Won,10/2/2022
+0068d000009MW9pAAG,Opportunity for Cooper256,Closed Lost,2218900,0,0,Existing Business,Advertisement,Omitted,BDR,5/4/2029,Lost,5/4/2023
+0068d000009MWBUAA4,Opportunity for Foster1871,Closed Won,1628800,1,1628800,New Business,Employee Referral,Closed,AE,6/14/2028,Won,6/14/2022
+0068d000009MWBVAA4,Opportunity for McDaniel1873,Closed Won,3694000,1,3694000,New Business,Web,Closed,AE,10/11/2028,Won,10/11/2022
+0068d000009MWBWAA4,Opportunity for Gibbs1874,Proposal/Price Quote,2058100,0.75,1543575,New Business / Add-on,Trade Show,BestCase,Marketing,10/12/2029,Open,10/12/2023
+0068d000009MWBXAA4,Opportunity for Medina1876,Needs Analysis,2859100,0.2,571820,Existing Business,Word of mouth,Pipeline,Alliances,2/26/2030,Open,2/26/2022
+0068d000009MWBYAA4,Opportunity for Kim733,Closed Won,238018,1,238018,New Business,Advertisement,Closed,BDR,6/10/2029,Won,6/10/2023
+0068d000009MWBZAA4,Opportunity for Curry734,Qualification,40380,0.1,4038,New Business / Add-on,Partner,Pipeline,BDR,10/14/2029,Open,10/14/2023
+0068d000009MWBaAAO,Opportunity for Schultz736,Closed Lost,324200,0,0,New Business,Word of mouth,Omitted,Marketing,8/14/2028,Lost,8/14/2022
+0068d000009MWBbAAO,Opportunity for Garner740,Perception Analysis,155600,0.7,108920,New Business / Add-on,Employee Referral,BestCase,Alliances,10/8/2029,Open,10/8/2023
+0068d000009MWBeAAO,Opportunity for Watts745,Closed Won,676500,1,676500,New Business / Add-on,Public Relations,Closed,AE,9/3/2028,Won,9/3/2022
+0068d000009MWBfAAO,Opportunity for Freeman746,Closed Won,1411200,1,1411200,New Business,Word of mouth,Closed,BDR,2/13/2029,Won,2/13/2023
+0068d000009MWBgAAO,Opportunity for Hopkins747,Closed Won,218798,1,218798,New Business,Advertisement,Closed,AE,5/27/2029,Won,5/27/2023
+0068d000009MWBhAAO,Opportunity for Clayton750,Closed Won,411166,1,411166,Existing Business,Employee Referral,Closed,Alliances,2/4/2029,Won,2/4/2023
+0068d000009MWDiAAO,Opportunity for Griffin1933,Closed Won,150043,1,150043,New Business / Add-on,Employee Referral,Closed,AE,4/7/2029,Won,4/7/2023
+0068d000009MWDjAAO,Opportunity for Daniel1935,Closed Won,1454500,1,1454500,New Business,Web,Closed,Alliances,1/6/2029,Won,1/6/2023
+0068d000009MWDkAAO,Opportunity for Joseph1936,Closed Won,2920800,1,2920800,New Business,Web,Closed,AE,8/2/2029,Won,8/2/2023
+0068d000009MWDlAAO,Opportunity for Todd1938,Qualification,466200,0.1,46620,New Business,Web,Pipeline,Marketing,2/15/2030,Open,2/15/2022
+0068d000009MWDmAAO,Opportunity for Warner1943,Closed Won,1844200,1,1844200,New Business,Public Relations,Closed,Marketing,10/9/2028,Won,10/9/2022
+0068d000009MWDoAAO,Opportunity for Waters1946,Closed Lost,17000,0,0,New Business / Add-on,Employee Referral,Omitted,AE,8/5/2029,Lost,8/5/2023
+0068d000009MWDpAAO,Opportunity for Baldwin443,Closed Lost,852720,0,0,New Business,Employee Referral,Omitted,BDR,5/28/2029,Lost,5/28/2023
+0068d000009MWDqAAO,Opportunity for Gross444,Closed Lost,683100,0,0,New Business / Add-on,Partner,Omitted,Marketing,9/16/2028,Lost,9/16/2022
+0068d000009MWDrAAO,Opportunity for Barker446,Closed Lost,1794340,0,0,New Business,Partner,Omitted,BDR,5/11/2029,Lost,5/11/2023
+0068d000009MWDsAAO,Opportunity for Harrington447,Closed Won,287850,1,287850,Existing Business,Word of mouth,Closed,BDR,11/12/2028,Won,11/12/2022
+0068d000009MWDtAAO,Opportunity for Barnes448,Closed Won,182000,1,182000,New Business / Add-on,Trade Show,Closed,Marketing,12/23/2028,Won,12/23/2022
+0068d000009MWDvAAO,Opportunity for Beck451,Closed Won,1518400,1,1518400,New Business,Partner,Closed,Marketing,10/3/2028,Won,10/3/2022
+0068d000009MWDwAAO,Opportunity for Bryan454,Closed Lost,380500,0,0,New Business / Add-on,Web,Omitted,Alliances,2/1/2029,Lost,2/1/2023
+0068d000009MWFRAA4,Opportunity for Kelley1593,Closed Lost,1498260,0,0,New Business,Web,Omitted,Alliances,5/29/2029,Lost,5/29/2023
+0068d000009MWFSAA4,Opportunity for Wood1594,Closed Lost,140105,0,0,New Business,Word of mouth,Omitted,AE,5/18/2029,Lost,5/18/2023
+0068d000009MWFTAA4,Opportunity for Alvarado1597,Closed Won,4824325,1,4824325,New Business / Add-on,Partner,Closed,Alliances,5/5/2029,Won,5/5/2023
+0068d000009MWFUAA4,Opportunity for Simpson1598,Closed Won,204600,1,204600,Existing Business,Word of mouth,Closed,AE,10/31/2028,Won,10/31/2022
+0068d000009MWFWAA4,Opportunity for Barker1602,Needs Analysis,951000,0.2,190200,Existing Business,Advertisement,Pipeline,BDR,11/25/2029,Open,11/25/2023
+0068d000009MWFXAA4,Opportunity for Cunningham1976,Closed Won,503975,1,503975,New Business / Add-on,Employee Referral,Closed,Alliances,3/11/2029,Won,3/11/2023
+0068d000009MWFZAA4,Opportunity for Ellis1978,Closed Won,2745600,1,2745600,Existing Business,Word of mouth,Closed,Marketing,6/4/2029,Won,6/4/2023
+0068d000009MWFaAAO,Opportunity for McLaughlin1979,Closed Won,98850,1,98850,New Business,Web,Closed,AE,8/20/2029,Won,8/20/2023
+0068d000009MWFbAAO,Opportunity for Park1980,Value Proposition,532950,0.5,266475,New Business,Advertisement,Pipeline,Marketing,11/29/2029,Open,11/29/2023
+0068d000009MWFcAAO,Opportunity for Mitchell1983,Closed Won,1667600,1,1667600,New Business / Add-on,Trade Show,Closed,Marketing,7/8/2028,Won,7/8/2022
+0068d000009MWFeAAO,Opportunity for Paul1992,Closed Lost,650350,0,0,New Business,Public Relations,Omitted,Marketing,8/21/2029,Lost,8/21/2023
+0068d000009MWFfAAO,Opportunity for Burton1994,Needs Analysis,987930,0.2,197586,New Business / Add-on,Advertisement,Pipeline,Alliances,2/4/2030,Open,2/4/2022
+0068d000009MWFgAAO,Opportunity for Santiago1997,Closed Won,1394000,1,1394000,New Business,Word of mouth,Closed,Alliances,8/10/2029,Won,8/10/2023
+0068d000009MWFiAAO,Opportunity for Spencer490,Closed Lost,281412,0,0,New Business,Advertisement,Omitted,AE,7/14/2029,Lost,7/14/2023
+0068d000009MWFjAAO,Opportunity for Wilkerson493,Closed Won,597750,1,597750,New Business,Trade Show,Closed,AE,1/31/2029,Won,1/31/2023
+0068d000009MWIdAAO,Opportunity for Luna1331,Closed Won,1010900,1,1010900,New Business,Partner,Closed,AE,12/8/2028,Won,12/8/2022
+0068d000009MWIfAAO,Opportunity for Malone1334,Needs Analysis,3847700,0.2,769540,New Business / Add-on,Trade Show,Pipeline,AE,2/4/2030,Open,2/4/2022
+0068d000009MWIgAAO,Opportunity for Sharp1336,Closed Won,257198,1,257198,New Business,Word of mouth,Closed,AE,7/24/2029,Won,7/24/2023
+0068d000009MWIhAAO,Opportunity for Shaw1337,Closed Lost,620200,0,0,New Business,Employee Referral,Omitted,Alliances,8/16/2029,Lost,8/16/2023
+0068d000009MWIjAAO,Opportunity for Gibbs1339,Closed Won,2983800,1,2983800,Existing Business,Employee Referral,Closed,AE,3/6/2029,Won,3/6/2023
+0068d000009MWIkAAO,Opportunity for Chavez1340,Closed Won,289140,1,289140,New Business,Partner,Closed,AE,7/11/2029,Won,7/11/2023
+0068d000009MWImAAO,Opportunity for Sanders1345,Closed Won,773640,1,773640,Existing Business,Seminar - Internal,Closed,Marketing,7/19/2029,Won,7/19/2023
+0068d000009MWInAAO,Opportunity for Sparks1346,Closed Won,1567780,1,1567780,New Business / Add-on,Advertisement,Closed,AE,4/27/2029,Won,4/27/2023
+0068d000009MWIqAAO,Opportunity for Johnson1707,Needs Analysis,3612800,0.2,722560,New Business / Add-on,Trade Show,Pipeline,Marketing,11/8/2029,Open,11/8/2023
+0068d000009MWIrAAO,Opportunity for Parker1715,Negotiation/Review,886570,0.9,797913,New Business / Add-on,Partner,Forecast,AE,9/29/2029,Open,9/29/2023
+0068d000009MWIsAAO,Opportunity for Erickson1716,Value Proposition,1771150,0.5,885575,New Business / Add-on,Employee Referral,Pipeline,Marketing,9/11/2029,Open,9/11/2023
+0068d000009MWItAAO,Opportunity for Lewis1718,Closed Won,1415700,1,1415700,New Business,Employee Referral,Closed,Marketing,8/5/2029,Won,8/5/2023
+0068d000009MWIuAAO,Opportunity for French1719,Closed Won,1840000,1,1840000,New Business,Advertisement,Closed,AE,4/23/2029,Won,4/23/2023
+0068d000009MWDyAAO,Opportunity for Mendez460,Closed Won,23245,1,23245,New Business,Partner,Closed,Alliances,1/14/2029,Won,1/14/2023
+0068d000009MWDzAAO,Opportunity for Christensen462,Closed Won,133800,1,133800,New Business,Word of mouth,Closed,AE,7/23/2028,Won,7/23/2022
+0068d000009MWE0AAO,Opportunity for Stevenson463,Closed Lost,103690,0,0,New Business / Add-on,Employee Referral,Omitted,Marketing,3/27/2029,Lost,3/27/2023
+0068d000009MWE1AAO,Opportunity for Arnold464,Closed Won,805000,1,805000,New Business / Add-on,Partner,Closed,AE,11/3/2028,Won,11/3/2022
+0068d000009MWE2AAO,Opportunity for Wolfe807,Closed Won,3198400,1,3198400,New Business,Web,Closed,AE,9/18/2028,Won,9/18/2022
+0068d000009MWE3AAO,Opportunity for Hamilton810,Needs Analysis,895290,0.2,179058,New Business,Web,Pipeline,BDR,3/28/2030,Open,3/28/2022
+0068d000009MWE6AAO,Opportunity for Stokes814,Needs Analysis,1750,0.2,350,New Business / Add-on,Employee Referral,Pipeline,BDR,11/9/2029,Open,11/9/2023
+0068d000009MWE7AAO,Opportunity for Goodman815,Closed Won,323550,1,323550,Existing Business,Employee Referral,Closed,Alliances,5/20/2029,Won,5/20/2023
+0068d000009MWE8AAO,Opportunity for Carter816,Closed Won,14720,1,14720,New Business,Employee Referral,Closed,AE,3/29/2029,Won,3/29/2023
+0068d000009MWE9AAO,Opportunity for Banks821,Perception Analysis,133017,0.7,93111.9,New Business,Employee Referral,BestCase,Marketing,11/20/2029,Open,11/20/2023
+0068d000009MWEAAA4,Opportunity for Johnston824,Value Proposition,913860,0.5,456930,Existing Business,Web,Pipeline,BDR,11/16/2029,Open,11/16/2023
+0068d000009MWFkAAO,Opportunity for Lyons494,Qualification,2371900,0.1,237190,New Business,Advertisement,Pipeline,Alliances,3/16/2030,Open,3/16/2022
+0068d000009MWFnAAO,Opportunity for Reeves502,Closed Lost,439140,0,0,New Business / Add-on,Public Relations,Omitted,AE,4/13/2029,Lost,4/13/2023
+0068d000009MWFoAAO,Opportunity for Pope508,Closed Lost,499523,0,0,New Business / Add-on,Partner,Omitted,BDR,8/7/2029,Lost,8/7/2023
+0068d000009MWFpAAO,Opportunity for Fernandez851,Closed Won,352350,1,352350,Existing Business,Employee Referral,Closed,AE,6/26/2029,Won,6/26/2023
+0068d000009MWFqAAO,Opportunity for Gordon852,Qualification,762410,0.1,76241,New Business / Add-on,Trade Show,Pipeline,AE,12/2/2029,Open,12/2/2023
+0068d000009MWFwAAO,Opportunity for Gordon872,Closed Won,339815,1,339815,New Business / Add-on,Web,Closed,AE,9/18/2028,Won,9/18/2022
+0068d000009MWFxAAO,Opportunity for Rogers1242,Closed Won,3907275,1,3907275,New Business,Trade Show,Closed,AE,4/8/2029,Won,4/8/2023
+0068d000009MWFyAAO,Opportunity for Newton1243,Closed Won,288925,1,288925,New Business / Add-on,Seminar - Internal,Closed,Marketing,12/3/2028,Won,12/3/2022
+0068d000009MWFzAAO,Opportunity for Parks1244,Closed Won,436500,1,436500,Existing Business,Public Relations,Closed,BDR,5/24/2029,Won,5/24/2023
+0068d000009MWG0AAO,Opportunity for Hall1246,Value Proposition,937550,0.5,468775,New Business / Add-on,Word of mouth,Pipeline,AE,8/23/2029,Open,8/23/2023
+0068d000009MWG1AAO,Opportunity for Cole1249,Perception Analysis,50890,0.7,35623,New Business / Add-on,Advertisement,BestCase,Alliances,8/23/2029,Open,8/23/2023
+0068d000009MWG2AAO,Opportunity for Morton1251,Closed Won,25095,1,25095,New Business,Seminar - Internal,Closed,AE,3/16/2029,Won,3/16/2023
+0068d000009MWIvAAO,Opportunity for Duncan1725,Prospecting,847450,0.1,84745,Existing Business,Public Relations,Pipeline,BDR,10/11/2029,Open,10/11/2023
+0068d000009MWIwAAO,Opportunity for Leonard584,Qualification,318600,0.1,31860,Existing Business,Word of mouth,Pipeline,Marketing,1/11/2030,Open,1/11/2022
+0068d000009MWIyAAO,Opportunity for Santiago590,Closed Lost,57510,0,0,Existing Business,Trade Show,Omitted,BDR,4/4/2029,Lost,4/4/2023
+0068d000009MWIzAAO,Opportunity for Morton591,Proposal/Price Quote,1741100,0.75,1305825,New Business / Add-on,Word of mouth,BestCase,AE,9/15/2029,Open,9/15/2023
+0068d000009MWJ0AAO,Opportunity for Reynolds593,Qualification,3503360,0.1,350336,New Business,Word of mouth,Pipeline,Marketing,9/17/2029,Open,9/17/2023
+0068d000009MWJ1AAO,Opportunity for Bowers595,Closed Won,681410,1,681410,New Business,Public Relations,Closed,AE,3/13/2029,Won,3/13/2023
+0068d000009MWJ2AAO,Opportunity for Armstrong600,Prospecting,2102240,0.1,210224,New Business / Add-on,Web,Pipeline,Alliances,2/17/2030,Open,2/17/2022
+0068d000009MWJ3AAO,Opportunity for Johnston601,Closed Lost,377520,0,0,New Business / Add-on,Public Relations,Omitted,AE,8/12/2028,Lost,8/12/2022
+0068d000009MWJ4AAO,Opportunity for Nash605,Closed Won,1840600,1,1840600,New Business / Add-on,Web,Closed,AE,6/13/2029,Won,6/13/2023
+0068d000009MWJ5AAO,Opportunity for Evans607,Closed Lost,341390,0,0,New Business,Web,Omitted,AE,2/4/2029,Lost,2/4/2023
+0068d000009MWJ6AAO,Opportunity for Norman968,Closed Won,728525,1,728525,New Business,Web,Closed,AE,6/6/2029,Won,6/6/2023
+0068d000009MWJ7AAO,Opportunity for Keller977,Closed Lost,54900,0,0,New Business / Add-on,Word of mouth,Omitted,AE,6/12/2029,Lost,6/12/2023
+0068d000009MWEEAA4,Opportunity for Hayes1197,Perception Analysis,1593200,0.7,1115240,Existing Business,Advertisement,BestCase,AE,8/23/2029,Open,8/23/2023
+0068d000009MWEFAA4,Opportunity for Logan1198,Closed Lost,40480,0,0,New Business,Employee Referral,Omitted,AE,7/28/2029,Lost,7/28/2023
+0068d000009MWEIAA4,Opportunity for Nichols1204,Closed Won,2169600,1,2169600,New Business,Public Relations,Closed,AE,7/10/2029,Won,7/10/2023
+0068d000009MWEKAA4,Opportunity for Howard1207,Value Proposition,449438,0.5,224719,New Business,Web,Pipeline,AE,3/8/2030,Open,3/8/2022
+0068d000009MWELAA4,Opportunity for Murray1210,Closed Won,1639550,1,1639550,New Business / Add-on,Partner,Closed,Marketing,4/6/2029,Won,4/6/2023
+0068d000009MWEMAA4,Opportunity for Wagner1214,Closed Lost,580000,0,0,New Business / Add-on,Advertisement,Omitted,Marketing,1/27/2029,Lost,1/27/2023
+0068d000009MWENAA4,Opportunity for Thomas1215,Closed Won,342886,1,342886,New Business / Add-on,Web,Closed,Marketing,9/3/2028,Won,9/3/2022
+0068d000009MWEOAA4,Opportunity for Yates1567,Closed Lost,7425,0,0,New Business,Employee Referral,Omitted,Marketing,5/7/2029,Lost,5/7/2023
+0068d000009MWEQAA4,Opportunity for Curtis1571,Closed Won,198000,1,198000,New Business,Web,Closed,Marketing,6/4/2029,Won,6/4/2023
+0068d000009MWERAA4,Opportunity for Clark1572,Closed Lost,480891,0,0,Existing Business,Public Relations,Omitted,Marketing,2/1/2029,Lost,2/1/2023
+0068d000009MWESAA4,Opportunity for Williamson1573,Closed Lost,3990000,0,0,New Business / Add-on,Public Relations,Omitted,AE,5/26/2029,Lost,5/26/2023
+0068d000009MWETAA4,Opportunity for Goodwin1575,Closed Won,122651,1,122651,New Business,Trade Show,Closed,AE,8/17/2028,Won,8/17/2022
+0068d000009MWEVAA4,Opportunity for Sims1582,Closed Won,119967,1,119967,New Business,Seminar - Internal,Closed,BDR,1/26/2029,Won,1/26/2023
+0068d000009MWEBAA4,Opportunity for Powell825,Closed Won,230520,1,230520,New Business,Employee Referral,Closed,Alliances,11/25/2028,Won,11/25/2022
+0068d000009MWECAA4,Opportunity for Parks826,Closed Won,411185,1,411185,Existing Business,Partner,Closed,AE,8/1/2029,Won,8/1/2023
+0068d000009MWEDAA4,Opportunity for Stone1195,Closed Lost,1817815,0,0,New Business,Word of mouth,Omitted,Alliances,4/21/2029,Lost,4/21/2023
+0068d000009MWG7AAO,Opportunity for Delgado1258,Closed Lost,2129900,0,0,New Business / Add-on,Employee Referral,Omitted,Marketing,11/30/2028,Lost,11/30/2022
+0068d000009MWG8AAO,Opportunity for Terry1604,Closed Won,259500,1,259500,New Business,Seminar - Internal,Closed,Alliances,6/29/2028,Won,6/29/2022
+0068d000009MWGBAA4,Opportunity for Cook1618,Closed Lost,835870,0,0,New Business,Web,Omitted,AE,7/12/2029,Lost,7/12/2023
+0068d000009MWGCAA4,Opportunity for Singleton1620,Closed Won,3057500,1,3057500,New Business,Web,Closed,Marketing,3/1/2029,Won,3/1/2023
+0068d000009MWGDAA4,Opportunity for Stanley1623,Closed Won,15637,1,15637,New Business / Add-on,Trade Show,Closed,Alliances,8/16/2029,Won,8/16/2023
+0068d000009MWGEAA4,Opportunity for Morrison510,Closed Won,75289,1,75289,New Business,Advertisement,Closed,Alliances,11/17/2028,Won,11/17/2022
+0068d000009MWGFAA4,Opportunity for Elliott511,Needs Analysis,679555,0.2,135911,New Business,Public Relations,Pipeline,Alliances,12/30/2029,Open,12/30/2023
+0068d000009MWGGAA4,Opportunity for Wilkerson513,Closed Won,138690,1,138690,New Business,Word of mouth,Closed,AE,4/4/2029,Won,4/4/2023
+0068d000009MWGIAA4,Opportunity for Collier517,Qualification,211050,0.1,21105,New Business / Add-on,Employee Referral,Pipeline,BDR,10/27/2029,Open,10/27/2023
+0068d000009MWGKAA4,Opportunity for Hansen520,Value Proposition,104940,0.5,52470,New Business / Add-on,Partner,Pipeline,Marketing,10/12/2029,Open,10/12/2023
+0068d000009MWGLAA4,Opportunity for Clarke523,Closed Lost,4805100,0,0,New Business / Add-on,Web,Omitted,Alliances,4/5/2029,Lost,4/5/2023
+0068d000009MWGMAA4,Opportunity for Dennis524,Closed Won,3390620,1,3390620,New Business,Trade Show,Closed,AE,2/13/2029,Won,2/13/2023
+0068d000009MWJAAA4,Opportunity for Jennings981,Qualification,141300,0.1,14130,New Business,Partner,Pipeline,AE,2/11/2030,Open,2/11/2022
+0068d000009MWJBAA4,Opportunity for Weber983,Closed Lost,279405,0,0,New Business,Partner,Omitted,BDR,3/18/2029,Lost,3/18/2023
+0068d000009MWJDAA4,Opportunity for Lane987,Closed Won,316254,1,316254,New Business,Employee Referral,Closed,AE,2/6/2029,Won,2/6/2023
+0068d000009MWJEAA4,Opportunity for Lloyd988,Proposal/Price Quote,2243150,0.75,1682362.5,Existing Business,Public Relations,BestCase,AE,9/2/2029,Open,9/2/2023
+0068d000009MWJFAA4,Opportunity for Porter991,Perception Analysis,2158750,0.7,1511125,New Business,Seminar - Internal,BestCase,AE,10/10/2029,Open,10/10/2023
+0068d000009MWJHAA4,Opportunity for Gomez1357,Closed Lost,3618750,0,0,New Business / Add-on,Employee Referral,Omitted,BDR,7/11/2029,Lost,7/11/2023
+0068d000009MWJIAA4,Opportunity for Sullivan1358,Closed Won,163530,1,163530,New Business,Word of mouth,Closed,AE,4/29/2029,Won,4/29/2023
+0068d000009MWJJAA4,Opportunity for Harrison1359,Qualification,475597,0.1,47559.7,New Business,Partner,Pipeline,BDR,10/12/2029,Open,10/12/2023
+0068d000009MWJKAA4,Opportunity for Austin1360,Value Proposition,347730,0.5,173865,New Business,Word of mouth,Pipeline,BDR,9/20/2029,Open,9/20/2023
+0068d000009MWJMAA4,Opportunity for Dean1363,Closed Won,156655,1,156655,New Business / Add-on,Employee Referral,Closed,AE,6/15/2029,Won,6/15/2023
+0068d000009MWJNAA4,Opportunity for Ferguson1365,Needs Analysis,3541100,0.2,708220,Existing Business,Employee Referral,Pipeline,BDR,10/12/2029,Open,10/12/2023
+0068d000009MWJOAA4,Opportunity for Harvey1369,Closed Won,802240,1,802240,Existing Business,Word of mouth,Closed,Marketing,12/20/2028,Won,12/20/2022
+0068d000009MWJPAA4,Opportunity for Wilkins1370,Needs Analysis,2649500,0.2,529900,New Business / Add-on,Word of mouth,Pipeline,BDR,1/8/2030,Open,1/8/2022
+0068d000009MWJQAA4,Opportunity for Wilkins1372,Closed Won,932900,1,932900,New Business / Add-on,Partner,Closed,AE,3/25/2029,Won,3/25/2023
+0068d000009MWJRAA4,Opportunity for Olson1373,Closed Won,25739,1,25739,New Business / Add-on,Partner,Closed,AE,1/25/2029,Won,1/25/2023
+0068d000009MWJSAA4,Opportunity for Dennis1374,Closed Won,3463920,1,3463920,Existing Business,Trade Show,Closed,Alliances,5/12/2029,Won,5/12/2023
+0068d000009MWJTAA4,Opportunity for Buchanan1727,Closed Lost,112000,0,0,New Business,Seminar - Internal,Omitted,AE,7/25/2029,Lost,7/25/2023
+0068d000009MW6zAAG,Opportunity for Conner5,Qualification,32400,0.1,3240,Existing Business,Employee Referral,Pipeline,Alliances,11/10/2029,Open,11/10/2023
+0068d000009MW73AAG,Opportunity for McDonald13,Closed Won,240747,1,240747,New Business / Add-on,Word of mouth,Closed,AE,7/24/2028,Won,7/24/2022
+0068d000009MW74AAG,Opportunity for Jefferson17,Closed Won,21640,1,21640,New Business / Add-on,Trade Show,Closed,Marketing,3/31/2029,Won,3/31/2023
+0068d000009MW75AAG,Opportunity for McLaughlin130,Negotiation/Review,1249000,0.9,1124100,Existing Business,Advertisement,Forecast,Marketing,9/27/2029,Open,9/27/2023
+0068d000009MW76AAG,Opportunity for Chandler133,Perception Analysis,754640,0.7,528248,New Business,Trade Show,BestCase,AE,8/27/2029,Open,8/27/2023
+0068d000009MW77AAG,Opportunity for Rice134,Closed Won,243450,1,243450,New Business,Word of mouth,Closed,AE,6/10/2028,Won,6/10/2022
+0068d000009MW79AAG,Opportunity for Barnes141,Qualification,363400,0.1,36340,New Business / Add-on,Word of mouth,Pipeline,BDR,9/8/2029,Open,9/8/2023
+0068d000009MW7CAAW,Opportunity for Norman145,Closed Won,800000,1,800000,New Business,Seminar - Internal,Closed,Alliances,7/3/2028,Won,7/3/2022
+0068d000009MW7DAAW,Opportunity for Edwards146,Perception Analysis,4212140,0.7,2948498,New Business,Public Relations,BestCase,Marketing,9/14/2029,Open,9/14/2023
+0068d000009MW7EAAW,Opportunity for Williams149,Needs Analysis,2305550,0.2,461110,New Business,Employee Referral,Pipeline,BDR,8/26/2029,Open,8/26/2023
+0068d000009MW7FAAW,Opportunity for Wagner150,Closed Lost,2660660,0,0,Existing Business,Employee Referral,Omitted,AE,4/29/2029,Lost,4/29/2023
+0068d000009MW7GAAW,Opportunity for Lewis258,Closed Won,309938,1,309938,New Business / Add-on,Word of mouth,Closed,Marketing,11/5/2028,Won,11/5/2022
